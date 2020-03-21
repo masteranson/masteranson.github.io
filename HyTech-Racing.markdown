@@ -1,9 +1,9 @@
 ---
 layout: page
-title: I develop high performance battery packs for a Formula Student race car
+title: HyTech Racing
 permalink: /HyTech Racing/
 ---
-I lead a team of over 20 undergraduate/graduate students in the design, manufacture and testing of a 5kWh battery pack for the Formula SAE electric competition.
+### I lead a team of over 20 undergraduate/graduate students in the design, manufacture and testing of a 5kWh battery pack for the Formula SAE electric competition.
 
 ![Deez nuts3](/assets/photo3.jpg)
 We are incredibly grateful for the support of local businesses, such as Swift Atlanta. Photo above is our battery container and battery cooling fins!
