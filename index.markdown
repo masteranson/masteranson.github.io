@@ -4,7 +4,7 @@
 
 layout: home
 ---
-
+---
 ### I am Anson, an aspiring engineer who enjoys pursuing radical innovation. I'm willing to take risks others won't.
 
 ![Deez nuts69](/assets/photo69.JPG)
