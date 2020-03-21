@@ -4,7 +4,6 @@
 
 layout: home
 ---
-## Welcome to my portfolio!
 
 ### I am Anson, an aspiring engineer who enjoys pursuing radical innovation. I'm willing to take risks others won't.
 
