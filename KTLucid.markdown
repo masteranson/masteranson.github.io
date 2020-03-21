@@ -4,4 +4,4 @@ title: KT Lucid LLC
 permalink: /KT Lucid LLC/
 ---
 
-deez nuts again?
+Check our products out on: [KT Lucid]([https://www.ktlucid.com)
