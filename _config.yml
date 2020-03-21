@@ -23,7 +23,7 @@ email: anson.tsang@ktlucid.com
 description: >
  This site is created to document things I enjoy doing. Lets make some money.
 baseurl: "/AnsonTsang" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "masteranson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
