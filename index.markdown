@@ -26,7 +26,3 @@ layout: default
 <br />
 <br />
 <br />
-
-<div align="center" > <h6 style="color: #5e9ca0; text-align: justify;"><span style="color: #000000;">Hope you enjoy reading about some of the things I have done above.
-Feel free to reach out to if anything interests you! This portfolio is last updated on: {{ site.time | date: '%b %d, %Y' }}</span></h6>
-</div>
