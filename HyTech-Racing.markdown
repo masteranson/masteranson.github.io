@@ -9,7 +9,7 @@ permalink: /HyTech Racing/
 We are incredibly grateful for the support of local businesses, such as Swift Atlanta. Photo above is our battery container and battery cooling fins!
 
 <p align="center">
-  <img width=403 height=302 src="/assets/photo4.jpg">
+  <img width="403" height="302" src="/assets/photo4.jpg">
 </p>
 
 On site negotiation for custom LiCoO2 battery cells in Dongguan China.
