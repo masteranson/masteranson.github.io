@@ -15,10 +15,8 @@ layout: default
 </p>
 
 ### 🐝 *Bachelors of Science* in Mechanical Engineering at Georgia Institute of Technology, minor in scientific and engineering computing. <br />
-<br />
 ### 🦁 *Diploma* at Kent School.
 
 <p align="center">
   <img width="auto" height="auto" src="/assets/photo9.png">
-  <figcaption>My friends and I having fun in Atlanta!</figcaption>
 </p>
