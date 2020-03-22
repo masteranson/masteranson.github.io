@@ -17,7 +17,7 @@ High Performance Computing Centre to run large scale simulations using `LAMMPS`.
   <img width="auto" height="auto" src="/assets/photo420.jpg">
 </p>
 
-<div align="justify">A visualization of the model setup using `VMD`. Approximately 80000 ELBA coarse grained water molecule was used for more than 4 million timestep.</div>
+<div align="justify">A visualization of the model setup using `VMD`. Approximately 80000 ELBA coarse grained water molecule was allowed to 'exist' for more than 4 million timesteps.</div>
 
 
 <p align="center">

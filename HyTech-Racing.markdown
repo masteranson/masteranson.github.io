@@ -6,10 +6,14 @@ permalink: /HyTech Racing/
 <h1 style="color: #5e9ca0; text-align: justify;"><span style="color: #000000;">
   I lead a team of over 20 undergraduate/graduate students in the design, manufacture and testing of a 5kWh battery pack for the Formula SAE electric competition.</span></h1>
 ---
+<div align="justify">Enchanted by the relentless pursuit for performance through innovation in the world of
+  Formula 1 racing, I made it my personal goal to lead Georgia Tech to victory in
+  Formula SAE California 2020 through building the most reliable, powerful and light battery pack in the competition.</div>
+
 
 ### The Design
 ---
-
+Transitioning to a new competition,our goal is to maximize backwards compatability in parts while maximizing performance and significantly increasing reliability.
 
 
 <center>
@@ -21,17 +25,14 @@ width="500" height="764" style="border:none;overflow:hidden" scrolling="no" fram
 
 ### Bringing the beast to life
 ---
-
-<div align="justify">Enchanted by the relentless pursuit for performance through innovation in the world of
-  Formula 1 racing, I made it my personal goal to lead Georgia Tech to victory in
-  Formula SAE California 2020 through building the most reliable, powerful and light battery pack in the competition.</div>
+Putting together the battery pack requires sourcing and manufacturing, thousands of components with an extremely limited budget.
+ I am grateful for my teammembers who tackled this challenge together with resourcefulness and resilience.
 
 <br />
 
-<p align="center">
-  <img width="auto" height="auto" src="/assets/photo3.jpg">
-  <figcaption>Our battery container and battery cooling fins manufactured by Swift Atlanta, the largest sheet metal OEM factory in Georgia!</figcaption>
-</p>
+
+<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics2.html" width="100%" height="500" style="border: none;" onload="resizeIframe(this)"></iframe>
+<figcaption>Our battery container and battery cooling fins manufactured by Swift Atlanta, the largest sheet metal OEM factory in Georgia!</figcaption>
 
 <div align="justify">I directly coordinate manufacturing with
 local and international OEM manufacturers for the thousands of special components,
@@ -47,4 +48,5 @@ where a custom electrode cutting die was required and a modification to their el
 
 <br />
 
+Ultimately, the competition transitioned to an 'online' event format. Along with school cancellation, I was unable to complete the pack as of {{ site.time | date: '%b %d, %Y' }}.
 You can check the team out on: [HyTech Racing](http://hytechracing.gatech.edu)
