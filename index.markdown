@@ -14,8 +14,9 @@ layout: default
   <img width="auto" height="auto" src="/assets/photo69.JPG">
 </p>
 
- 🐝 *Bachelors of Science* in Mechanical Engineering at Georgia Institute of Technology, minor in scientific and engineering computing. <br />
-🦁 *Diploma* at Kent School.
+### 🐝 *Bachelors of Science* in Mechanical Engineering at Georgia Institute of Technology, minor in scientific and engineering computing. <br />
+<br />
+### 🦁 *Diploma* at Kent School.
 
 <p align="center">
   <img width="auto" height="auto" src="/assets/photo9.png">
