@@ -21,10 +21,3 @@ layout: default
   <img width="auto" height="auto" src="/assets/photo9.png">
   <figcaption>My friends and I having fun in Atlanta!</figcaption>
 </p>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
