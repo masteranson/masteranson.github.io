@@ -16,7 +16,7 @@ layout: default
 🦁 *Diploma* at Kent School.
 
 <p align="center">
-  <img width="auto" height="auto" src="/assets/photo9.JPG">
+  <img width="auto" height="auto" src="/assets/photo9.jpg">
   <figcaption>My friends and I having fun in Atlanta!</figcaption>
 </p>
 
