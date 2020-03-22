@@ -4,9 +4,8 @@
 
 layout: default
 ---
- An aspiring engineer who enjoys pursuing radical innovation. I'm willing to take risks others won't.
----
+<h2 style="color: #5e9ca0; text-align: justify;"><span style="color: #000000;">An aspiring engineer who enjoys pursuing radical innovation. I'm willing to take risks others won't.</span></h2>
 
-![Deez nuts69](/assets/photo69.JPG)
+<img width="auto" height="auto" src="/assets/photo69.JPG">
 
 I am currently pursuing a *Bachelors of Science* in Mechanical Engineering at Georgia Institute of Technology with a minor in scientific and engineering computing.
