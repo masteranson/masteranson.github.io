@@ -30,7 +30,7 @@ permalink: /HyTech Racing/
   </div>
 </p>
 
-<iframe src="http://lexoyo.me/jekyll-slideshow/slides/my-pics1.html" width="100%" height="100%" style="border: none;"></iframe>
+<iframe src="http://masteranson.github.io/jekyll-slideshow/slides/my-pics1.html" width="100%" height="100%" style="border: none;"></iframe>
 
 <div align="justify">On site negotiation for custom <img width="auto" height="auto" src="https://render.githubusercontent.com/render/math?math=LiCoO_%7B2%7D"> pouch cells in Dongguan, China. We were able to secure a deal for a small production run, where a custom electrode cutting die was required and a modification to their electrode stacking schedule.</div>
 
