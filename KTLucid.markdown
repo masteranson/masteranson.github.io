@@ -1,6 +1,6 @@
 ---
 layout: page
-title: KT Lucid
+title: KT Lucid 💍
 permalink: /KT Lucid LLC/
 ---
 ## KT Lucid Manufacturing
@@ -8,6 +8,15 @@ permalink: /KT Lucid LLC/
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/blsFVIm3GC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
+<p align="center">
+  <img width="auto" height="auto" src="/assets/photo3.jpg">
+    <figcaption>My friends and I having fun in Atlanta!</figcaption>
+</p>
+
+<p align="center">
+  <img width="auto" height="auto" src="/assets/photo8.jpg">
+    <figcaption>My friends and I having fun in Atlanta!</figcaption>
+</p>
 
 
 ## Constant Improvement
