@@ -5,9 +5,8 @@
 layout: default
 ---
 <h2 style="color: #5e9ca0; text-align: justify;"><span style="color: #000000;">I am an engineer who seeks out radical innovation. My resourcefulness allows me to take risks others won't.</span></h2>
-<br />
 
-This portfolio is last updated on: {{ site.time | date: '%b %d, %Y' }}
+<br />
 
 <p align="center">
   <img width="auto" height="auto" src="/assets/photo69.JPG">
@@ -26,6 +25,8 @@ This portfolio is last updated on: {{ site.time | date: '%b %d, %Y' }}
 <br />
 <br />
 <br />
-<br />  
-<div align="center">Hope you enjoy reading about some of the things I have done above.
-Feel free to reach out to if anything interests you!</div>
+<br />
+
+<div align="center" > <h6 style="color: #5e9ca0; text-align: justify;"><span style="color: #000000;">Hope you enjoy reading about some of the things I have done above.
+Feel free to reach out to if anything interests you! This portfolio is last updated on: {{ site.time | date: '%b %d, %Y' }}</span></h6>
+</div>

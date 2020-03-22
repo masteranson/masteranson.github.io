@@ -9,6 +9,7 @@ permalink: /HyTech Racing/
 <div align="justify">Enchanted by the relentless pursuit for performance through innovation in the world of
   Formula 1 racing, I made it my personal goal to lead Georgia Tech to victory in
   Formula SAE California 2020 through building the most reliable, powerful and light battery pack in the competition.</div>
+  <br />
 
 
 ### The Design

@@ -3,23 +3,29 @@ layout: page
 title: KT Lucid 💍
 permalink: /KT Lucid LLC/
 ---
-## KT Lucid Manufacturing
+## A Bit of Background
 ---
-<div align="justify"> My experience with KT Lucid has allowed me the unique opportunity to travel overseas to Shenzhen and Dongguan to work directly with suppliers. It has also allowed me to utilize advanced manufacturing techniques such as CNC Milling (3, 4 and 5 axis) and 3D printing of molds to produce high quality jewelry.</div>
+<div align="justify"> My experience with KT Lucid has allowed me the unique opportunity to travel overseas to Shenzhen and
+  Dongguan to work directly with suppliers. It has also allowed me to utilize advanced manufacturing techniques such as CNC Milling (3, 4 and 5 axis) and
+  3D printing of molds to produce high quality jewelry.</div>
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/blsFVIm3GC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br />
-
-
 ### The Devil is in the Details
 ---
-Crafting jewelry is long thought only as an art. I disagree. A beautiful product
-requires engineering ingenuity and the ability to ask the right questions.
+<div align="justify"> Crafting jewelry is long thought only as an art. I disagree. A beautiful product
+requires both engineering ingenuity and the ability recognize elegance. Today I'll show you how
+we made the Kent School signet ring.</div>
+<br />
+
+All jewelry starts with a concept, a physical representation to a particular memory or emotion.
+The invoked design is then quickly translated from paper to model.
 
 <p align="center">
   <img width="auto" height="auto" src="/assets/photo7.jpg">
     <figcaption>Initial JEWELCAD drawing of the ring translated from rough sketches on paper.</figcaption>
 </p>
+
+After we are satisfied with the iniital design, we generate some renderings and surveyed the response to a control group.
 
 <br />
 <p align="center">
@@ -27,22 +33,25 @@ requires engineering ingenuity and the ability to ask the right questions.
     <figcaption>Rendered models of the signet ring!</figcaption>
 </p>
 
+We then move on to rapid prototyping. The first step is utilize additive manufacturing to visualize the product and identify
+any potential manufacturing challenges with the ring.
 <br />
 
 <p align="center">
   <img width="auto" height="auto" src="/assets/photo5.JPG">
-    <figcaption>3D printed prototype of a signet ring!</figcaption>
+    <figcaption>Stereolithography printed prototype of a signet ring!</figcaption>
 </p>
 
 <br />
 
-<p align="center">
-  <img width="auto" height="auto" src="/assets/photo11.JPG">
-    <figcaption>Comparing different manufacturing methods quality.</figcaption>
-</p>
+Various manufacuturing methods were considered. A stringent quality assessment was made to compare the samples.
+<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics3.html" width="100%" height="500" style="border: none;" onload="resizeIframe(this)"></iframe>
 
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/blsFVIm3GC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br />
 
+After finalizing the manufacturing details and establishing our supply chain, we begin marketing and selling the ring.
 <p align="center">
   <img width="auto" height="auto" src="/assets/photo8.jpeg">
     <figcaption>A selection of our signet ring with different precious metal!</figcaption>
