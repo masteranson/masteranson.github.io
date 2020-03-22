@@ -10,6 +10,8 @@ permalink: /HyTech Racing/
   Formula 1 racing, I made it my personal goal to lead Georgia Tech to victory in
   Formula SAE California 2020 through building the most reliable, powerful and light battery pack in the competition.</div>
 
+<br />
+
 <p align="center">
   <img width="auto" height="auto" src="/assets/photo3.jpg">
   <figcaption>Our battery container and battery cooling fins manufactured by Swift Atlanta, the largest sheet metal OEM factory in Georgia!</figcaption>

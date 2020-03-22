@@ -27,6 +27,6 @@ permalink: /Molecular Dynamics/
 
 
 <p align="center">
-  <img width="auto" height="auto" src="/assets/photo6.PNG">
+  <img width="auto" height="auto" src="/assets/photo6.JPG">
   <figcaption>Internal presentation of my research findings to the entire lab</figcaption>
 </p>
