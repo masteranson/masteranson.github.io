@@ -10,6 +10,8 @@ permalink: /KT Lucid LLC/
 <br />
 
 ### The Devil is in the Details
+Crafting jewelry is long thought of a form craftsmanship. I disagree. Achieving mechanical perfection
+requires engineering ingenuity and the ability to ask the right questions.
 
 <p align="center">
   <img width="auto" height="auto" src="/assets/photo7.jpg">
@@ -46,7 +48,8 @@ permalink: /KT Lucid LLC/
 <br />
 
 ## Constant Improvement
-<div align="justify"> Through continually asking questions and exploring new manufacturing techniques we were able to lower costs by 65% while reducing manufacturing lead time from months to weeks. </div>
+<div align="justify"> TL;DR: Through continually asking questions and exploring new manufacturing techniques
+  we were able to lower costs by 65% while reducing manufacturing lead time from months to weeks. </div>
 
 <br />
 Check our products out on: [KT Lucid](https://www.ktlucid.com)
