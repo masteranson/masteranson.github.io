@@ -4,7 +4,7 @@
 
 layout: default
 ---
-<h2 style="color: #5e9ca0; text-align: justify;"><span style="color: #000000;">An engineer who seeks out radical innovation. My resourcefulness allows me to take risks others won't.</span></h2>
+<h2 style="color: #5e9ca0; text-align: justify;"><span style="color: #000000;">I am an engineer who seeks out radical innovation. My resourcefulness allows me to take risks others won't.</span></h2>
 
 <br />
 
@@ -16,7 +16,7 @@ layout: default
 🦁 *Diploma* at Kent School.
 
 <p align="center">
-  <img width="auto" height="auto" src="/assets/photo9.jpg">
+  <img width="auto" height="auto" src="/assets/photo9.png">
   <figcaption>My friends and I having fun in Atlanta!</figcaption>
 </p>
 
