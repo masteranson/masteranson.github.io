@@ -15,26 +15,34 @@ permalink: /KT Lucid LLC/
   <img width="auto" height="auto" src="/assets/photo7.jpg">
     <figcaption>Initial JEWELCAD drawing of the ring</figcaption>
 </p>
+
 <br />
 <p align="center">
   <img width="auto" height="auto" src="/assets/photo10.PNG">
     <figcaption>Rendered models of the signet ring!</figcaption>
 </p>
+
 <br />
+
 <p align="center">
   <img width="auto" height="auto" src="/assets/photo5.JPG">
     <figcaption>3D printed prototype of a signet ring!</figcaption>
 </p>
+
 <br />
+
 <p align="center">
   <img width="auto" height="auto" src="/assets/photo11.JPG">
     <figcaption>Comparing different manufacturing methods quality.</figcaption>
 </p>
+
 <br />
+
 <p align="center">
   <img width="auto" height="auto" src="/assets/photo8.jpeg">
     <figcaption>A selection of our signet ring with different precious metal!</figcaption>
 </p>
+
 <br />
 
 ## Constant Improvement
