@@ -14,7 +14,20 @@ permalink: /HyTech Racing/
 
 ### The Design
 ---
-Transitioning to a new competition, our goal is to maximize backwards compatability in parts while maximizing performance and significantly increasing reliability.
+Transitioning to a new competition, our goal is to maximize b performance and significantly increasing reliability, with 90% backwards compatability in parts.
+
+
+<p align="center">
+  <img width="auto" height="auto" src="/assets/photo22.png">
+</p>
+
+<p align="center">
+  <img width="auto" height="auto" src="/assets/photo23.png">
+</p>
+
+<p align="center">
+  <img width="auto" height="auto" src="/assets/photo25.png">
+</p>
 
 
 <center>
