@@ -33,13 +33,13 @@ Putting together the battery pack requires sourcing and manufacturing, thousands
 
 <iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics2.html" width="100%" style="border: none;" onload="resizeIframe(this)"></iframe>
 <figcaption>Our battery container and battery cooling fins manufactured by Swift Atlanta, the largest sheet metal OEM factory in Georgia!</figcaption>
-
+<br />
 <div align="justify">I directly coordinate manufacturing with
 local and international OEM manufacturers for the thousands of special components,
 such as special non-linear expansion limiting foam and environmental sealing silicone gaskets.</div>
 
 
-<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics31
+<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics1.html" width="100%" style="border: none;" onload="resizeIframe(this)"></iframe>
 
 <div align="justify">On site negotiation for custom <img width="auto" height="auto" src="https://render.githubusercontent.com/render/math?math=LiCoO_%7B2%7D">
 pouch cells in Dongguan, China. We were able to secure a deal for a small production run,
