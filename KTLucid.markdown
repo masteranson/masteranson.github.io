@@ -14,12 +14,9 @@ permalink: /KT Lucid LLC/
 ---
 <div align="justify"> Crafting jewelry is long thought only as an art. I disagree. A beautiful product
 requires both engineering ingenuity and the ability to recognize elegance. Today I'll show you how
-we made the Kent School signet ring.</div>
-<br />
-
-All jewelry starts with a concept, a physical representation to a particular memory or emotion.
-The invoked design is then quickly translated from paper to model.
-
+we made the Kent School signet ring. All jewelry starts with a concept, a physical representation to a particular memory or emotion.
+The invoked design is then quickly translated from paper to model. <br />
+</div>
 <p align="center">
   <img width="auto" height="auto" src="/assets/photo7.jpg">
     <figcaption>Initial JEWELCAD drawing of the ring translated from rough sketches on paper.</figcaption>

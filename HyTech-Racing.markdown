@@ -19,8 +19,6 @@ permalink: /HyTech Racing/
 ### The Design
 ---
 <div align="justify">
-Our goal is to maximize power delivery and increasing reliability, while maintaining a 90% backwards compatability in parts.
-
 The issue of keeping the battery temperature within an accepted operating range is a significant issue that Formula E, the highest level of electric motorsports racing, faces.
 Our lightweight convective air cooling system dissapates enough heat to allow the driver to push the car without having to <a href="https://www.formula1.com/en/latest/article.a-beginners-guide-to-f1-slang.1Pg6tvGZ2y7u4KAnc8WXGl.html">"lift and coast"</a>.
 <br />
@@ -29,8 +27,9 @@ Our lightweight convective air cooling system dissapates enough heat to allow th
 <iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics4.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
 
 
-With sufficient cooling, we are currently running a 72s1p battery configuration. With no parallel circuitry, this simplifies both the mechanical and electrical systems,
-while not compromising on power. The battery pack is also designed to be highly serviceable with modular battery segments and power electronics. Significant weight was also saved by switching to
+With sufficient cooling, we are currently running a 72s1p <img width="auto" height="auto" src="https://render.githubusercontent.com/render/math?math=LiCoO_%7B2%7D"> cell configuration.
+With no parallel circuitry, this simplifies both the mechanical and electrical systems, while not compromising on power.
+The battery pack is also designed to be highly serviceable with modular battery segments and power electronics. Significant weight was also saved by switching to
 all aluminum high current bus-bars. The cell is optimized to experience 10psi of compression at ~10% cell expansion using non-linear Bisco BF-2000 scilicone foam.
 </div>
 
@@ -47,31 +46,27 @@ width="500" height="764" style="border:none;overflow:hidden" scrolling="no" fram
 ### Bringing the beast to life
 ---
 <div align="justify">
-Putting together the battery pack requires sourcing and manufacturing, thousands of components with an extremely limited budget.
- I am grateful for my teammembers who tackled this challenge together with resourcefulness and resilience.
+Putting together the battery pack requires sourcing and manufacturing thousands of components with an extremely limited budget.
+A lot of our custom components are manufactured in house, including the cell withstraining plates at each ends of a battery module. After optimizing the part using FEA static analysis
+ to reduce weight while maintaining machinability and minimal deflection, we program the CAM to manufacture the parts on a HAAS 3-axis CNC mill. <br />
+
+<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics6.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
 
 <br />
 
-A lot of our custom components are manufactured in house, including the cell withstraining plates at each ends of a battery module. After optimizing the part using FEA static analysis
- to reduce weight while maintaining machinability and minimal deflection, we program the CAM to manufacture the parts on a HAAS 3-axis CNC mill. <br />
-<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics6.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
-
-However, ultimately as a student team we do not have access to all of the various manufacturing equipment to make every single piece. Instead we rely on the support of our sponsors, located
-all over the US, for their assistance. <br />
+However, as a student team we do not have access to all of the various manufacturing equipment to make every piece. Instead we rely on the support of our sponsors, located
+all over the US, for their assistance. I directly coordinate manufacturing with local and international OEM manufacturers, some of them shown below. <br />
 <iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics2.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
 
 <br />
-
-I directly coordinate manufacturing with
-local and international OEM manufacturers for the thousands of special components,
-such as special non-linear expansion limiting foam and environmental sealing silicone gaskets.<br />
-
 
 But perhaps the most exciting development of this season is our partnership with Melasta Co Ltd, a small battery manufacturer from China.<br />
 <iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics1.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
 
 <br />
 
-Ultimately, the competition transitioned to an 'online' event format. Along with school cancellation, I was unable to complete the pack as of {{ site.time | date: '%b %d, %Y' }}. <br />
+Ultimately, the 2020 competition transitioned to an 'online' event format due to the COVID-19 Pandemic.
+Along with school cancellation, I was unable to complete the battery pack as of {{ site.time | date: '%b %d, %Y' }}. <br />
 </div>
-You can check the team out on: [HyTech Racing](http://hytechracing.gatech.edu)
+
+You can still check the team out on: [HyTech Racing](http://hytechracing.gatech.edu)
