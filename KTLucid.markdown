@@ -45,7 +45,7 @@ any potential manufacturing challenges with the ring.
 <br />
 
 Various manufacuturing methods were considered. A stringent quality assessment was made to compare the samples.
-<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics3.html" width="100%" style="border: none;" onload="resizeIframe(this)"></iframe>
+<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics3.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/blsFVIm3GC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br />
