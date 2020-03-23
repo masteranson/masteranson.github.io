@@ -13,7 +13,7 @@ permalink: /KT Lucid LLC/
 ### The Devil is in the Details
 ---
 <div align="justify"> Crafting jewelry is long thought only as an art. I disagree. A beautiful product
-requires both engineering ingenuity and the ability recognize elegance. Today I'll show you how
+requires both engineering ingenuity and the ability to recognize elegance. Today I'll show you how
 we made the Kent School signet ring.</div>
 <br />
 
@@ -45,8 +45,10 @@ any potential manufacturing challenges with the ring.
 <br />
 
 Various manufacuturing methods were considered. A stringent quality assessment was made to compare the samples.
-<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics3.html" width="100%" height="500" style="border: none;" onload="resizeIframe(this)"></iframe>
+<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics3.html" width="100%" style="border: none;" onload="resizeIframe(this)"></iframe>
 
+<iframe class="slideshow-iframe" src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics3.html"
+style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/blsFVIm3GC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br />
@@ -54,7 +56,7 @@ Various manufacuturing methods were considered. A stringent quality assessment w
 After finalizing the manufacturing details and establishing our supply chain, we begin marketing and selling the ring.
 <p align="center">
   <img width="auto" height="auto" src="/assets/photo8.jpeg">
-    <figcaption>A selection of our signet ring with different precious metal!</figcaption>
+    <figcaption>A selection of our signet ring with different precious metals!</figcaption>
 </p>
 
 <br />
