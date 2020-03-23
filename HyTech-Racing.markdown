@@ -29,6 +29,7 @@ Transitioning to a new competition, our goal is to maximize b performance and si
   <img width="auto" height="auto" src="/assets/photo25.png">
 </p>
 
+<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics4.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
 
 <center>
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FHyTechRacing%2Fposts%2F2506645326071881&width=500"
