@@ -19,10 +19,10 @@ High Performance Computing Centre to run large scale simulations using <code>LAM
   <figcaption>Internal presentation of my research findings to the entire lab</figcaption>
 </p>
 <div align="justify">
-  
+
 Essentially by simulating a nanoscale system, we can take meaningful statistical averages and interpret the phenomea in macroscopic terms while assuming sufficient ergodicity.
 Why it works? I have no clue, but if you don't believe the science you can read more about it <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800798/pdf/nihms-127989.pdf">here</a> .
-
+What I was able to interpret
 
 <p align="center">
   <img width="auto" height="auto" src="/assets/photo420.jpg">

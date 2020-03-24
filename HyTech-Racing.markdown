@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HyTech Racing 🏎
+title: [HyTech Racing](http://hytechracing.gatech.edu) 🏎
 permalink: /HyTech Racing/
 ---
 <h1 style="color: #5e9ca0; text-align: justify;"><span style="color: #000000;">
@@ -70,5 +70,5 @@ there are no suitable battery cells that is perfect for our application. Instead
 Ultimately, the 2020 competition transitioned to an 'online' event format due to the COVID-19 Pandemic.
 Along with school cancellation, I was unable to complete the battery pack as of {{ site.time | date: '%b %d, %Y' }}. <br />
 </div>
-
+<br />
 You can still check the team out on: [HyTech Racing](http://hytechracing.gatech.edu)
