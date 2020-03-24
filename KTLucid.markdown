@@ -35,8 +35,6 @@ After the design phase, we needed to figure out how we can make the ring. So exp
  factor, however, we consider is quality. That is why a stringent quality assessment was made for each sample.
 <iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics3.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
 <br />
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/blsFVIm3GC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<br />
 
 After finalizing the manufacturing details and establishing our supply chain, we begin marketing and selling the ring.
 <iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics8.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
@@ -48,6 +46,10 @@ After finalizing the manufacturing details and establishing our supply chain, we
 ---
 <div align="justify"> TL;DR: Through continually asking questions and exploring new manufacturing techniques
   we were able to lower costs by 65% while reducing manufacturing lead time from months to weeks. </div>
+
+<br />
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/blsFVIm3GC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<br />
 
 <br />
 Check our products out on: [KT Lucid](https://www.ktlucid.com)
