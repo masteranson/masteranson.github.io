@@ -19,7 +19,7 @@ The invoked design is then quickly translated from paper to model. After we are 
 are used to make the final tweaks.<br />
 </div>
 <iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics7.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
-
+<br />
 We then move on to rapid prototyping. The first step is utilize additive manufacturing to visualize the product and identify
 any potential manufacturing challenges with the ring.
 <br />
