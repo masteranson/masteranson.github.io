@@ -15,20 +15,10 @@ permalink: /KT Lucid LLC/
 <div align="justify"> Crafting jewelry is long thought only as an art. I disagree. A beautiful product
 requires both engineering ingenuity and the ability to recognize elegance. Today I'll show you how
 we made the Kent School signet ring. All jewelry starts with a concept, a physical representation to a particular memory or emotion.
-The invoked design is then quickly translated from paper to model. <br />
+The invoked design is then quickly translated from paper to model. After we are satisfied with the inital design, we generated some renderings and surveyed the response to a control group. These inputs
+are used to make the final tweaks.<br />
 </div>
-<p align="center">
-  <img width="auto" height="auto" src="/assets/photo7.jpg">
-    <figcaption>Initial JEWELCAD drawing of the ring translated from rough sketches on paper.</figcaption>
-</p>
-
-After we are satisfied with the iniital design, we generate some renderings and surveyed the response to a control group.
-
-<br />
-<p align="center">
-  <img width="auto" height="auto" src="/assets/photo10.PNG">
-    <figcaption>Rendered models of the signet ring!</figcaption>
-</p>
+<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics7.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
 
 We then move on to rapid prototyping. The first step is utilize additive manufacturing to visualize the product and identify
 any potential manufacturing challenges with the ring.
@@ -41,17 +31,16 @@ any potential manufacturing challenges with the ring.
 
 <br />
 
-Various manufacuturing methods were considered. A stringent quality assessment was made to compare the samples.
+After the design phase, we needed to figure out how we can make the ring. So experimented with various manufacuturing methods, each with a unique lead time, cost and logistical challenge. The most important
+ factor, however, we consider is quality. That is why a stringent quality assessment was made for each sample.
 <iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics3.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/blsFVIm3GC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br />
 
 After finalizing the manufacturing details and establishing our supply chain, we begin marketing and selling the ring.
-<p align="center">
-  <img width="auto" height="auto" src="/assets/photo8.jpeg">
-    <figcaption>A selection of our signet ring with different precious metals!</figcaption>
-</p>
+<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics8.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
+
 
 <br />
 
