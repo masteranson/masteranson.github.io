@@ -4,7 +4,7 @@
 
 layout: default
 ---
-<h2 style="color: #5e9ca0; text-align: justify;"><span style="color: #000000;">I am an engineer who seeks out radical innovation. My resourcefulness allows me to take risks others won't.</span></h2>
+<h2 style="color: #5e9ca0; text-align: center;"><span style="color: #000000;">I am an engineer who seeks out radical innovation. My resourcefulness allows me to take risks others won't.</span></h2>
 
 <hr>
 
