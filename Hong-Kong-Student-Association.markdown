@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hong Kong Student Association 🇭🇰
+title: Hong Kong Student Association 🇰
 permalink: /Hong Kong Student Association/
 ---
 ### A student organization founded to promoting the culture of Hong Kong and a supporting students from Hong Kong and Macau!
