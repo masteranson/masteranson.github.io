@@ -70,7 +70,7 @@ there are no suitable battery cells that is perfect for our application. Instead
 After fully characterizing the performance characteristics of every cell, the data is directly used in our real time state-of-charge estimation model:
 
 <p align="center">
-  <img width="auto" height="auto" src="/assets/photo35.PNG">
+  <img width="auto" height="auto" src="/assets/photo35.png">
     <figcaption>Initial SOC determined from SoC vs. OCV lookup table stored in EEPROM.</figcaption>
 </p>
 
