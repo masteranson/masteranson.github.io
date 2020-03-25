@@ -71,7 +71,7 @@ Ultimately, the 2020 competition transitioned to an 'online' event format due to
 Along with school cancellation, I was unable to complete the battery pack as of {{ site.time | date: '%b %d, %Y' }}. <br />
 
 <br />
-You can still check the team out on: [HyTech Racing](http://hytechracing.gatech.edu)
+You can still check the team out on: <a href="http://hytechracing.gatech.edu">HyTech Racing</a>
 
 
 </div>
