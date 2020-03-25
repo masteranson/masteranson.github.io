@@ -64,8 +64,16 @@ all over the US, for their assistance. I directly coordinate manufacturing with 
 <br />
 
 But perhaps the most exciting development of this season is our partnership with Melasta Co Ltd, a small battery manufacturer from China. Due to our unique geometric and performance requirements,
-there are no suitable battery cells that is perfect for our application. Instead, we needed to work with a company who is willing to work with us to engineer and develop a unique cell. <br />
+there are no suitable battery cells that is perfect for our application. Instead, we needed to work with a company who is willing to work with us to engineer and develop a custom cell. <br />
 <iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics1.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
+
+After fully characterizing the performance characteristics of every cell, the data is directly used in our real time state-of-charge estimation model:
+
+<p align="center">
+  <img width="auto" height="auto" src="/assets/photo35.PNG">
+    <figcaption>Initial SOC determined from SoC vs. OCV lookup table stored in EEPROM.</figcaption>
+</p>
+
 
 <br />
 
