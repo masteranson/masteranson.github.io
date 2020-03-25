@@ -6,7 +6,7 @@ permalink: /Molecular Dynamics/
 ### Research Project: Evaporation Kinetics of Nano Water Droplets using Coarse-Grained Molecular Dynamic Simulations
 ---
 <div align="justify">
-I worked as a research assistant in the <a href="http://newri.ntu.edu.sg/Research/NEWRI%20Research%20Domain/EPMC/Pages/Overview.aspx">Environmental Process Modeling Centre</ a> at
+I worked as a research assistant in the <a href="http://newri.ntu.edu.sg/Research/NEWRI%20Research%20Domain/EPMC/Pages/Overview.aspx">Environmental Process Modeling Centre</a> at
 Nanyang Environmental and Water Research Institute in Singapore between June-August 2018 and May-July 2019.
 One of my principle investigations during that period were on some of the science behind interfacial water evaporation.
 I was fortunate enough to be given the opportunity to use the Nanyang Technological University's
@@ -21,8 +21,9 @@ High Performance Computing Centre to run large scale simulations using <code>LAM
 
 <div align="justify">
 
-This simulation technique is the same as the <a href="https://foldingathome.org/">Folding@Home</a> project you may have heard of. Essentially by simulating a nanoscale system, we can take meaningful statistical averages and interpret the phenomea in macroscopic terms while assuming sufficient ergodicity.
-Though I am not qualified to explain why we should trust the results from this type of numerical model, you can read more about MD <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800798/pdf/nihms-127989.pdf">here</a>.
+Molecular dynamic simulations are the basis of the <a href="https://foldingathome.org/">Folding@Home</a> project you may have heard of. Essentially by simulating a nanoscale system, we can take meaningful statistical averages and interpret the phenomea in macroscopic terms while assuming sufficient ergodicity.
+Though I am not qualified to explain why the data from this type of numerical modelling has any meaning in real life, this <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800798/pdf/nihms-127989.pdf">paper</a>
+ may provide good insight on this topic.
 
 
 <p align="center">
@@ -40,9 +41,9 @@ As with any computational studies model validation is critical, especially if an
 
 One of the biggest discoveries from this computational study was it how we were able to visualize thermodynamic properties that is not very well defined in such a simulation environment.
 We were able to elucidate an evaporation process that is very difficult to replicate in physical experiments. As shown in the figure below,
-we see how a pressure gradient across the interfacial boundary relaxes as net evaporation flux approaches zero.
+ a pressure gradient across the interfacial boundary relaxes as net evaporation flux approaches zero.
 
 <br />
 
-Detail findings are submitted in a manuscript to the International Journal of Heat and Mass Transfer pending acceptance.
+Detail findings are submitted to the International Journal of Heat and Mass Transfer pending acceptance.
 </div>

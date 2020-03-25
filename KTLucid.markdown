@@ -31,12 +31,13 @@ any potential manufacturing challenges with the ring.
 
 <br />
 
-After the design phase, we needed to figure out how we can make the ring. So experimented with various manufacuturing methods, each with a unique lead time, cost and logistical challenge. The most important
+After the design phase, we needed to figure out how we can manufacture the ring. So experimented with various manufacuturing methods, each with a unique lead time, cost and logistical challenge. The most important
  factor, however, we consider is quality. That is why a stringent quality assessment was made for each sample.
 <iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics3.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
 <br />
 
-After finalizing the manufacturing details and establishing our supply chain, we begin marketing and selling the ring.
+After finalizing the manufacturing details and establishing our supply chain, we begin marketing and selling the ring. Ultimately, I found that providing a luxurious customer experience had just as much effect on sales
+ as a actual good product.
 <iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics8.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
 
 
