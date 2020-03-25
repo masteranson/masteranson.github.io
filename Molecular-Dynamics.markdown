@@ -6,7 +6,7 @@ permalink: /Molecular Dynamics/
 ### Research Project: Evaporation Kinetics of Nano Water Droplets using Coarse-Grained Molecular Dynamic Simulations
 ---
 <div align="justify">
-I worked as a research assistant in the Environmental Process Modeling Centre at
+I worked as a research assistant in the <a href="http://newri.ntu.edu.sg/Research/NEWRI%20Research%20Domain/EPMC/Pages/Overview.aspx">Environmental Process Modeling Centre</ a> at
 Nanyang Environmental and Water Research Institute in Singapore between June-August 2018 and May-July 2019.
 One of my principle investigations during that period were on some of the science behind interfacial water evaporation.
 I was fortunate enough to be given the opportunity to use the Nanyang Technological University's
