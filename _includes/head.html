@@ -23,20 +23,13 @@
   function resizeIframe(obj) {
     obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
     console.log(obj.contentWindow.document.body.scrollHeight + 'px');
-    resizeIframeTwice(obj);
-  }
-
-  function resizeIframeTwice(obj) {
 
     if(!obj.contentWindow.location.hash) {
         obj.contentWindow.location = obj.contentWindow.location + '#loaded';
         obj.contentWindow.location.reload();
     }
-    
-    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
-    console.log(obj.contentWindow.document.body.scrollHeight + 'px');
-
   }
+
   </script>
 
 </head>
