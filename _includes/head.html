@@ -27,9 +27,10 @@
   }
 
   function resizeIframeTwice(obj) {
-    obj.contentWindow.location.reload();
     obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
     console.log(obj.contentWindow.document.body.scrollHeight + 'px');
+    obj.contentWindow.location.reload();
+
   }
   </script>
 
