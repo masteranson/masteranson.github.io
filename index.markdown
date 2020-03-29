@@ -18,5 +18,5 @@ layout: default
 ### 🦁 *Diploma* at [Kent School](https://www.kent-school.edu/) '18
 
 <p align="center">
-  <img width="100%" height="550" src="/assets/photo9.png">
+  <img width="auto" height="50%" src="/assets/photo9.png">
 </p>
