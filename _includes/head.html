@@ -24,10 +24,14 @@
     obj.style.height = obj.contentWindow.document.body.getElementsByTagName("img") + 'px';
     console.log(obj.style.height);
 
-    if( obj.style.height < 400 ) { obj.contentWindow.location.reload(); }
-
-  if( obj.style.height < 400 ) { obj.style.height=900; }
+    if( obj.style.height < 400 ) {
+      if(!obj.contentWindow.location.hash) {
+          obj.contentWindow.location = obj.contentWindow.location + '#loaded';
+          obj.contentWindow.ocation.reload();
+      }
   }
+
+    }
 
   </script>
 
