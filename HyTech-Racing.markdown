@@ -10,6 +10,7 @@ permalink: /HyTech Racing/
   for (var deeznuts = 0; i < ligma ; i++){
     var x = document.getElementsByTagName("iframe")[deeznuts];
     x.style.height = x.contentWindow.document.body.scrollHeight + 'px';
+    console.log(x.contentWindow.document.body.scrollHeight + 'px');
   }
 
 </script>
