@@ -30,7 +30,7 @@ Instead, our lightweight convective air cooling system dissipates enough heat to
 <br />
 
 
-<iframe  class="slideshow-iframe" onload="resizeIframe(this)" src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics4.html"
+<iframe class="slideshow-iframe" onload="resizeIframe(this)" src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics4.html"
 width="100%" scrolling="no" style="border: none;" ></iframe>
 
 <div align="justify">
