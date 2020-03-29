@@ -34,7 +34,7 @@ Instead, our lightweight convective air cooling system dissipates enough heat to
 <br />
 
 
-<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics4.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
+<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics4.html" width="100%" scrolling="no" border="0" onload="resizeIframe(this)"></iframe>
 
 
 With sufficient cooling, we can safely adopt an extreme 72s1p <img width="auto" height="auto" src="https://render.githubusercontent.com/render/math?math=LiCoO_%7B2%7D"> cell configuration, taking our pack voltage to over 300V.
@@ -43,7 +43,7 @@ With no parallel circuitry, this simplifies both the mechanical and electrical s
 The battery pack is also designed to be highly serviceable, with 4 modular battery segments and power electronics. Significant weight was also saved by switching to all aluminum high current bus-bars.
 </div>
 
-<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics5.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
+<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics5.html" width="100%" scrolling="no" border="0" onload="resizeIframe(this)"></iframe>
 
 
 <center>
@@ -66,13 +66,13 @@ A lot of our custom components are manufactured in house, including the cell wit
 
 However, as a student team we do not have access to all of the various manufacturing equipment to make every piece. Instead we rely on the support of our sponsors, located
 all over the US, for their assistance. I directly coordinate manufacturing with local and international OEM manufacturers, some of them shown below. <br />
-<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics2.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
+<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics2.html" width="100%" scrolling="no" border="0" onload="resizeIframe(this)"></iframe>
 
 <br />
 
 But perhaps the most exciting development of this season is our partnership with Melasta Co Ltd, a small battery manufacturer from China. Due to our unique geometric and performance requirements,
 there are no suitable battery cells that is perfect for our application. Instead, we needed to work with a company who is willing to work with us to engineer and develop a custom cell. <br />
-<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics1.html" width="100%" scrolling="no" style="border: none;" onload="resizeIframe(this)"></iframe>
+<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics1.html" width="100%" scrolling="no" border="0" onload="resizeIframe(this)"></iframe>
 
 After fully characterizing the performance characteristics of every cell, the data is directly used in our real time state-of-charge estimation model:
 
