@@ -51,7 +51,6 @@ After finalizing the manufacturing details and establishing our supply chain, we
 
 <iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics8.html" onload="resizeIframe(this)" width="100%" scrolling="no" style="border: none;"></iframe>
 
-
 <br />
 
 ## Constant Improvement

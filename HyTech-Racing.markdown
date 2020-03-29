@@ -30,7 +30,7 @@ Instead, our lightweight convective air cooling system dissipates enough heat to
 <br />
 
 
-<iframe class="slideshow-iframe" onload="resizeIframe(this)" src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics4.html"
+<iframe onload="resizeIframe(this)" src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics4.html"
 width="100%" scrolling="no" style="border: none;" ></iframe>
 
 <div align="justify">
@@ -41,7 +41,7 @@ The battery pack is also designed to be highly serviceable, with 4 modular batte
 </div>
 
 
-<iframe class="slideshow-iframe" onload="resizeIframe(this)" src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics5.html"
+<iframe onload="resizeIframe(this)" src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics5.html"
 width="100%" scrolling="no" style="border: none;"></iframe>
 
 
@@ -60,7 +60,7 @@ A lot of our custom components are manufactured in house, including the cell wit
  to reduce weight while maintaining machinability and minimal deflection, we program the CAM to manufacture the parts on a Haas 3-axis CNC mill. <br />
 </div>
 
-<iframe class="slideshow-iframe" onload="resizeIframe(this)"  src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics6.html"
+<iframe onload="resizeIframe(this)"  src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics6.html"
 width="100%" scrolling="no" style="border: none;" ></iframe>
 
 
@@ -70,7 +70,7 @@ However, as a student team we do not have access to all of the various manufactu
 all over the US, for their assistance. I directly coordinate manufacturing with local and international OEM manufacturers, some of them shown below. <br />
 </div>
 
-<iframe class="slideshow-iframe" onload="resizeIframe(this)" src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics2.html"
+<iframe onload="resizeIframe(this)" src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics2.html"
 width="100%" scrolling="no" style="border: none;" ></iframe>
 
 <br />
@@ -80,7 +80,7 @@ But perhaps the most exciting development of this season is our partnership with
 there are no suitable battery cells that is perfect for our application. Instead, we needed to work with a company who is willing to work with us to engineer and develop a custom cell. <br />
 </div>
 
-<iframe class="slideshow-iframe" onload="resizeIframe(this)" src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics1.html"
+<iframe onload="resizeIframe(this)" src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics1.html"
 width="100%" scrolling="no" style="border: none;"></iframe>
 
 <div align="justify">
