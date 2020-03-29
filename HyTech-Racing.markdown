@@ -27,9 +27,9 @@ In those cases, the way the car is driven becomes an important element in mainta
 Instead, our lightweight convective air cooling system dissipates enough heat to allow the driver to push the car without having to <a href="https://www.formula1.com/en/latest/article.a-beginners-guide-to-f1-slang.1Pg6tvGZ2y7u4KAnc8WXGl.html">"lift and coast"</a>.
 <br />
 
-<div>
+
 <iframe onload="resizeIframe(this)" src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics4.html" width="100%" scrolling="no" style="border: none;" ></iframe>
-</div>
+
 
 With sufficient cooling, we can safely adopt an extreme 72s1p <img width="auto" height="auto" src="https://render.githubusercontent.com/render/math?math=LiCoO_%7B2%7D"> cell configuration, taking our pack voltage to over 300V.
 To both attenuate high frequency vibration and maximize cycle life, 10psi of compression is uniformaly applied to every cell under ~10% cell expansion using non-linear Bisco BF-2000 scilicone foam.
@@ -37,9 +37,9 @@ With no parallel circuitry, this simplifies both the mechanical and electrical s
 The battery pack is also designed to be highly serviceable, with 4 modular battery segments and power electronics. Significant weight was also saved by switching to all aluminum high current bus-bars.
 </div>
 
-<div>
+
 <iframe onload="resizeIframe(this)"  src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics5.html" width="100%" scrolling="no" style="border: none;"></iframe>
-</div>
+
 
 <center>
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FHyTechRacing%2Fposts%2F2506645326071881&width=500"
@@ -54,9 +54,9 @@ width="500" height="764" style="border:none;overflow:hidden" scrolling="no" fram
 Putting together the battery pack requires sourcing and manufacturing thousands of components with an extremely limited budget.
 A lot of our custom components are manufactured in house, including the cell withstraining plates at each ends of a battery module. After optimizing the part using FEA static analysis
  to reduce weight while maintaining machinability and minimal deflection, we program the CAM to manufacture the parts on a Haas 3-axis CNC mill. <br />
-<div>
+
 <iframe onload="resizeIframe(this)"  src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics6.html" width="100%" scrolling="no" style="border: none;" ></iframe>
-</div>
+
 
 <br />
 
@@ -69,9 +69,9 @@ all over the US, for their assistance. I directly coordinate manufacturing with 
 But perhaps the most exciting development of this season is our partnership with Melasta Co Ltd, a small battery manufacturer from China. Due to our unique geometric and performance requirements,
 there are no suitable battery cells that is perfect for our application. Instead, we needed to work with a company who is willing to work with us to engineer and develop a custom cell. <br />
 
-<div>
+
 <iframe onload="resizeIframe(this)"  src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics1.html" width="100%" scrolling="no" style="border: none;"></iframe>
-</div>
+
 
 After fully characterizing the performance characteristics of every cell, the data is directly used in our real time state-of-charge estimation model:
 

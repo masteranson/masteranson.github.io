@@ -19,9 +19,9 @@ we made the Kent School signet ring. All jewelry starts with a concept, a physic
 The invoked design is then quickly translated from paper to model. After we are satisfied with the inital design, we generated some renderings and surveyed the response to a control group. These inputs
 are used to make the final tweaks.<br />
 </div>
-<div>
+
 <iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics7.html" onload="resizeIframe(this)" width="100%" scrolling="no" style="border: none;" ></iframe>
-</div>
+
 <br />
 We then move on to rapid prototyping. The first step is utilize additive manufacturing to visualize the product and identify
 any potential manufacturing challenges with the ring.
@@ -36,16 +36,16 @@ any potential manufacturing challenges with the ring.
 
 After the design phase, we needed to figure out how we can manufacture the ring. So experimented with various manufacuturing methods, each with a unique lead time, cost and logistical challenge. The most important
  factor, however, we consider is quality. That is why a stringent quality assessment was made for each sample.
-<div>
+
 <iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics3.html" onload="resizeIframe(this)" width="100%" scrolling="no" style="border: none;"></iframe>
-</div>
+
 <br />
 
 After finalizing the manufacturing details and establishing our supply chain, we begin marketing and selling the ring. Ultimately, I found that providing a luxurious customer experience had just as much effect on sales
  as a actual good product.
- <div>
+
 <iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics8.html" onload="resizeIframe(this)" width="100%" scrolling="no" style="border: none;"></iframe>
-</div>
+
 
 <br />
 
