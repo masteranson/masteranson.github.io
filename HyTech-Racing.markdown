@@ -4,18 +4,6 @@ title: HyTech Racing 🏎
 permalink: /HyTech Racing/
 ---
 
-<script>
-
-  var ligma = document.getElementsByTagName("iframe").length;
-  for (var deeznuts = 0; deeznuts < ligma ; deeznuts++){
-    var x = document.getElementsByTagName("iframe")[deeznuts];
-    x.style.height = x.contentWindow.document.body.scrollHeight + 'px';
-    console.log(x.contentWindow.document.body.scrollHeight + 'px');
-  }
-
-</script>
-
-
 <h1 style="color: #5e9ca0; text-align: justify;"><span style="color: #000000;">
   I lead a team of over 20 undergraduate/graduate students in the design, manufacture and testing of a 5kWh battery pack
   for the <a href="https://www.sae.org/attend/student-events/formula-sae-electric/about">Formula SAE electric competition</a>.
