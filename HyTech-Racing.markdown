@@ -4,12 +4,6 @@ title: HyTech Racing 🏎
 permalink: /HyTech Racing/
 ---
 
-<script>
-function resizeIframe(obj) {
-  obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
-}
-</script>
-
 <h1 style="color: #5e9ca0; text-align: justify;"><span style="color: #000000;">
   I lead a team of over 20 undergraduate/graduate students in the design, manufacture and testing of a 5kWh battery pack
   for the <a href="https://www.sae.org/attend/student-events/formula-sae-electric/about">Formula SAE electric competition</a>.
@@ -34,7 +28,7 @@ Instead, our lightweight convective air cooling system dissipates enough heat to
 <br />
 
 <div>
-<iframe height = "600" src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics4.html" width="100%" scrolling="no" style="border: none;" ></iframe>
+<iframe onload="resizeIframe(this)" src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics4.html" width="100%" scrolling="no" style="border: none;" ></iframe>
 </div>
 
 With sufficient cooling, we can safely adopt an extreme 72s1p <img width="auto" height="auto" src="https://render.githubusercontent.com/render/math?math=LiCoO_%7B2%7D"> cell configuration, taking our pack voltage to over 300V.
@@ -44,7 +38,7 @@ The battery pack is also designed to be highly serviceable, with 4 modular batte
 </div>
 
 <div>
-<iframe  height = "700"  src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics5.html" width="100%" scrolling="no" style="border: none;"></iframe>
+<iframe onload="resizeIframe(this)"  src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics5.html" width="100%" scrolling="no" style="border: none;"></iframe>
 </div>
 
 <center>
@@ -61,7 +55,7 @@ Putting together the battery pack requires sourcing and manufacturing thousands 
 A lot of our custom components are manufactured in house, including the cell withstraining plates at each ends of a battery module. After optimizing the part using FEA static analysis
  to reduce weight while maintaining machinability and minimal deflection, we program the CAM to manufacture the parts on a Haas 3-axis CNC mill. <br />
 <div>
-<iframe  height = "700"  src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics6.html" width="100%" scrolling="no" style="border: none;" ></iframe>
+<iframe onload="resizeIframe(this)"  src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics6.html" width="100%" scrolling="no" style="border: none;" ></iframe>
 </div>
 
 <br />

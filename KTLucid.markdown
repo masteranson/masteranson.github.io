@@ -6,12 +6,6 @@ permalink: /KT Lucid LLC/
 ## A Bit of Background
 ---
 
-<script>
-function resizeIframe(obj) {
-  obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
-}
-</script>
-
 <div align="justify"> My experience with KT Lucid has allowed me the unique opportunity to travel to Shenzhen and
   Dongguan to work directly with suppliers. It has also allowed me to utilize advanced manufacturing techniques such as CNC Milling (3, 4 and 5 axis) and
   3D printing of molds to produce high quality jewelry.</div>
