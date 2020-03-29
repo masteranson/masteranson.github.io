@@ -26,7 +26,7 @@ The invoked design is then quickly translated from paper to model. After we are 
 are used to make the final tweaks.<br />
 </div>
 <div>
-<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics7.html" onload="resizeIframe(this)"width="100%" scrolling="no" style="border: none;" ></iframe>
+<iframe src="https://masteranson.github.io/jekyll-slideshow/slides/my-pics7.html" onload="resizeIframe(this)" width="100%" scrolling="no" style="border: none;" ></iframe>
 </div>
 <br />
 We then move on to rapid prototyping. The first step is utilize additive manufacturing to visualize the product and identify
