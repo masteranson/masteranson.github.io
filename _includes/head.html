@@ -21,7 +21,7 @@
 
   <script>
   function resizeIframe(obj) {
-    obj.style.height = obj.contentWindow.document.body.getElementsByTagName("img").length + 'px';
+    obj.style.height = obj.contentWindow.document.body.getElementsByTagName("img")[0].length + 'px';
     console.log(obj.style.height);
     }
 
