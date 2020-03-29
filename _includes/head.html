@@ -24,13 +24,9 @@
     obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
     console.log(obj.contentWindow.document.body.scrollHeight + 'px');
 
-    // if(!obj.contentWindow.location.hash || obj.style.height< 400 ) {
-    //     obj.contentWindow.location = obj.contentWindow.location + '#loaded';
-    //     obj.contentWindow.location.reload();
-    // }
-    if( obj.style.height< 400 ) { obj.contentWindow.location.reload(); }
+    if( obj.style.height < 400 ) { obj.contentWindow.location.reload(); }
 
-
+  if( obj.style.height < 400 ) { obj.style.height=900; }
   }
 
   </script>
