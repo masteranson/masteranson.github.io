@@ -28,7 +28,7 @@ Though I am not qualified to explain why the data from this type of numerical mo
 
 <p align="center">
   <img width="auto" height="auto" src="/assets/photo420.jpg">
-  <figcaption>A visualization of the model setup using `VMD`. Approximately 80000 ELBA coarsegrained water molecule was allowed to 'exist' for more than 4 million timesteps.</figcaption>
+  <figcaption>A visualization of the model setup using `VMD`. Approximately 80000 ELBA coarse-grained water molecule was allowed to 'exist' for more than 4 million timesteps.</figcaption>
 </p>
 
 As with any computational studies model validation is critical, especially if any results were to be meaningfully interpreted. That is why we have choosen a well validated coarse grain water model,
@@ -45,5 +45,5 @@ We were able to elucidate an evaporation process that is very difficult to repli
 
 <br />
 
-Detail findings are submitted to the International Journal of Heat and Mass Transfer pending acceptance.
+Detail findings are documented in this <a href="https://www.sciencedirect.com/science/article/abs/pii/S0017931019349750?dgcid=rss_sd_all">publication</a>.
 </div>
