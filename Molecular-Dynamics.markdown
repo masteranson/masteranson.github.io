@@ -41,7 +41,7 @@ As with any computational studies model validation is critical, especially if an
 
 One of the biggest discoveries from this computational study was it how we were able to visualize thermodynamic properties that is not very well defined in such a simulation environment.
 We were able to elucidate an evaporation process that is very difficult to replicate in physical experiments. As shown in the figure below,
- a pressure gradient across the interfacial boundary relaxes as net evaporation flux approaches zero.
+ a pressure gradient across the interfacial boundary relaxes as net evaporation flux approaches zero.<br />
 
 <br />
 
