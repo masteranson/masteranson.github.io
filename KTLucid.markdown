@@ -2,6 +2,7 @@
 layout: page
 title: KT Lucid 💍
 permalink: /KT Lucid LLC/
+menus: header
 ---
 ## A Bit of Background
 ---
