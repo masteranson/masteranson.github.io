@@ -6,5 +6,7 @@ layout: about
 title: "I am an engineer who seeks out radical innovation"
 
 ---
+---
+
 ### 🐝 *B.Sc.* in Mechanical Engineering at [Georgia Institute of Technology](https://www.me.gatech.edu/) '22 <br />
 ### 🦁 *Diploma* at [Kent School](https://www.kent-school.edu/) '18
