@@ -30,7 +30,7 @@ instagram_username: masteranson
 
 # Build settings
 #theme: "minima"
-remote_theme: "poole/lanyon"
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
   - jekyll-feed
   - jekyll-menus
