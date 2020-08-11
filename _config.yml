@@ -29,7 +29,8 @@ linkedin_username: tsangy18
 instagram_username: masteranson
 
 # Build settings
-theme: "minima"
+#theme: "minima"
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
   - jekyll-feed
   - jekyll-menus

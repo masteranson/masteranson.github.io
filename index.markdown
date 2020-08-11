@@ -17,7 +17,3 @@ menus: header
 
 ### 🐝 *B.Sc.* in Mechanical Engineering at [Georgia Institute of Technology](https://www.me.gatech.edu/) '22 <br />
 ### 🦁 *Diploma* at [Kent School](https://www.kent-school.edu/) '18
-
-<p align="center">
-  <img width="auto" height="500" src="/assets/photo9.png">
-</p>
