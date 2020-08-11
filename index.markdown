@@ -8,9 +8,11 @@ title: "I am an engineer who seeks out radical innovation"
 ---
 ---
 
-<img width="300" height="auto" src="/assets/photo69.JPG">
+<p align="center">
+<img width="600" height="auto" src="/assets/photo69.JPG">
+</p>
 
-Welcome to my personal page. Here you will find diverse range of the projects I have worked on, but all with a focus on clean-tech. I am passionate and dedicated to making the world a better place through innovation!
+Welcome to my personal page. Here you will find a diverse range of the projects I have worked on, but all with a focus on clean-tech. I am passionate and dedicated to making the world a better place through innovation!
 
 
 <h3 id="-b-sc-in-mechanical-engineering-at-georgia-institute-of-technology-https-www-me-gatech-edu-22-br-">🐝 <em>B.Sc.</em> in Mechanical Engineering at <a href="https://www.me.gatech.edu/">Georgia Institute of Technology</a> &#39;22 <br /></h3>
