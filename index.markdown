@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-menus: header
 ---
 <h2 style="color: #5e9ca0; text-align: center;"><span style="color: #000000;">I am an engineer who seeks out radical innovation.</span></h2>
 
