@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: KT Lucid 💍
 permalink: /KT Lucid LLC/
 ---
