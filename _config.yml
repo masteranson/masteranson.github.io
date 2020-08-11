@@ -32,6 +32,7 @@ instagram_username: masteranson
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
   - jekyll-feed
+  - jekyll-menus
 
 
 # Exclude from processing.
