@@ -8,7 +8,7 @@ title: "I am an engineer who seeks out radical innovation"
 ---
 ---
 
-<img width="auto" height="auto" src="/assets/photo69.JPG">
+<img width="300" height="auto" src="/assets/photo69.JPG">
 
 Welcome to my personal page. Here you will find diverse range of the projects I have worked on, but all with a focus on clean-tech. I am passionate and dedicated to making the world a better place through innovation!
 
