@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-paginate: true
 image:/assets/photo69.JPG
 alt_title:I am an engineer who seeks out radical innovation
 
