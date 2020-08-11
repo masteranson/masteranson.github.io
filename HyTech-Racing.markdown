@@ -2,7 +2,6 @@
 layout: page
 title: HyTech Racing 🏎
 permalink: /HyTech Racing/
-menus: header
 ---
 
 <h1 style="color: #5e9ca0; text-align: justify;"><span style="color: #000000;">
