@@ -12,5 +12,3 @@ Welcome to my personal page. Here you will find diverse range of the projects I 
 <br />
 <br />
 <br />
-### 🐝 *B.Sc.* in Mechanical Engineering at [Georgia Institute of Technology](https://www.me.gatech.edu/) '22 <br />
-### 🦁 *Diploma* at [Kent School](https://www.kent-school.edu/) '18
