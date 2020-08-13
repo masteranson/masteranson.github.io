@@ -1,0 +1,105 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "skills": "",
+    "projects": "Leadership",
+    "education": "Education",
+    "work": "Experience"
+  },
+  "basics": {
+    "email": "anson.tsang@ktlucid.com",
+    "phone": "93094811",
+    "location": {
+      "address": "Hong Kong"
+    },
+    "name": "Yung Chak Anson Tsang"
+  },
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "location": "Atlanta, GA",
+      "area": "Mechanical Engineering",
+      "studyType": "BSc",
+      "startDate": "Aug 2018",
+      "endDate": "Dec 2022"
+    },
+    {
+      "institution": "Kent School",
+      "location": "Kent, CT",
+      "studyType": "Diploma",
+      "startDate": "Sep 2015",
+      "endDate": "Jun 2018"
+    },
+    {}
+  ],
+  "work": [
+    {
+      "company": "Nanyang Environment and Water Research Institute",
+      "location": "Nanyang Technological University, Singapore",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "Jun 2018",
+      "endDate": "Aug 2018",
+      "highlights": [
+        null,
+        ""
+      ]
+    },
+    {
+      "highlights": [
+        ""
+      ],
+      "company": "KT Lucid",
+      "position": "Co-Founder",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        ""
+      ],
+      "company": "AMPD Energy",
+      "position": "Mechanical Engineering Intern",
+      "location": "Science Park, Hong Kong",
+      "startDate": "May 2020",
+      "endDate": "August 2020"
+    }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "description": "FSAE Electric Racing Team",
+      "keywords": [
+        null
+      ],
+      "name": "Electric Drives Lead at HyTech Racing"
+    },
+    {
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "summary": ""
+    },
+    {}
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
