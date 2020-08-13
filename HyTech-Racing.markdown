@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HyTech Racing 🏎
+title: HyTech Racing 
 permalink: /HyTech Racing/
 ---
 

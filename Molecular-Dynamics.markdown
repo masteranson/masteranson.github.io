@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Molecular Dynamics ⚛️
+title: Molecular Dynamics 
 permalink: /Molecular Dynamics/
 ---
 ### Research Project: Evaporation Kinetics of Nano Water Droplets using Coarse-Grained Molecular Dynamic Simulations
