@@ -8,98 +8,127 @@
   },
   "basics": {
     "email": "anson.tsang@ktlucid.com",
-    "phone": "93094811",
+    "phone": "+852 93094811",
+
     "location": {
-      "address": "Hong Kong"
+      "address": "Flat F, 6th Floor, 17th Block Sceneway Garden, Lam Tin",
+      "city": "Hong Kong SAR",
+      "countryCode": "HKG 00000",
     },
-    "name": "Yung Chak Anson Tsang"
+
+    "name": "Yung Chak Anson Tsang",
+    "website": "https://masteranson.github.io",
   },
   "education": [
     {
       "institution": "Georgia Institute of Technology",
       "location": "Atlanta, GA",
-      "area": "Mechanical Engineering",
-      "studyType": "BSc",
+      "area": "B.Sc. Mechanical Engineering",
       "startDate": "Aug 2018",
-      "endDate": "Dec 2022"
+      "endDate": "Dec 2022",
     },
+    {},
     {
       "institution": "Kent School",
       "location": "Kent, CT",
-      "studyType": "Diploma",
+      "area": "Diploma",
       "startDate": "Sep 2015",
-      "endDate": "Jun 2018"
+      "endDate": "Jun 2018",
     },
-    {}
   ],
+
   "work": [
     {
       "company": "Nanyang Environment and Water Research Institute",
       "location": "Nanyang Technological University, Singapore",
-      "position": "Research Intern",
-      "website": "",
+      "position": "Research Assistant",
+      "website": "http://newri.ntu.edu.sg/Research/NEWRI%20Research%20Domain/EPMC/Pages/Overview.aspx",
       "startDate": "Jun 2018",
       "endDate": "Aug 2018",
       "highlights": [
-        null,
-        ""
+        "Co-Authored a paper to International Journal of Mass and Heat Transfer, on large scale molecular dynamics simulation concerning the nanoscale behavior of interfacial water evaporation for applications in water desalination",
+        "Cooperated with Ph.D. students to develop a novel hyperspectral sensing suite for remote water quality monitoring",
+
       ]
     },
     {
-      "highlights": [
-        ""
-      ],
       "company": "KT Lucid",
+      "location": "Shrewsbury, Massachusetts",
       "position": "Co-Founder",
-      "endDate": "Present"
-    },
-    {
+      "website": "https://www.ktlucid.com",
+      "startDate": "June 2018",
+      "endDate": "Present",
       "highlights": [
-        ""
-      ],
+        "KT Lucid is a bespoke jewelry company that provides quality signet rings at a reasonable price using a combination of CNC mill/ metal injection mold manufacturing processes",
+        "Developed a set of products to reduce manufacturing costs by leveraging suppliers and manufactures overseas in China",
+        "Collaborated across legal, engineering, and manufacturing teams through writing clear business and technical reports",
+      ]
+    },
+
+    {
       "company": "AMPD Energy",
       "position": "Mechanical Engineering Intern",
       "location": "Science Park, Hong Kong",
-      "startDate": "May 2020",
-      "endDate": "August 2020"
-    }
-  ],
-  "skills": [
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-        ""
+      "website" : "https://ampd.energy",
+      "startDate" : "May 2020",
+      "endDate": "August 2020",
+      "highlights": [
+        "Created a parameterized multi-physics thermal model to analyze and optimize cooling system design",
+        "Spearheaded various mechanical re-designs, reducing overall weight by >200kg",
       ]
-    }
+    },
   ],
+
   "projects": [
     {
+      "organization": "HyTech Racing",
+      "website": "http://hytechracing.gatech.edu",
+      "position": "Electric Drives Lead",
       "description": "FSAE Electric Racing Team",
-      "keywords": [
-        null
-      ],
-      "name": "Electric Drives Lead at HyTech Racing"
-    },
-    {
-      "keywords": [
-        ""
+      "startDate" : "May 2020",
+      "endDate": "August 2020",
+      "highlights": [
+        "Orchestrated a team of over 20 graduate/undergraduate students on designing and manufacturing custom high performance battery packs for Formula SAE electric racing competition",
+        "Spearheaded major overhaul of electric power systems utilizing composites and aluminum high current busbars, reducing system weight by 8% while increasing the torsional rigidity of our chassis-integrated battery container",
       ]
-    }
-  ],
-  "awards": [
-    {
-      "summary": ""
     },
-    {}
+
+    {
+      "organization": "Hong Kong Student Association",
+      "website": "https://www.facebook.com/gthksa/",
+      "position": "Founding President",
+      "description": "Hong Kong ",
+      "startDate" : "Oct 2018",
+      "endDate": "Jul 2019",
+      "highlights": [
+        "Directly oversaw the leadership of the executive committee and established the organization constitution, leadership, hierarchy and budget",
+        "Hosted various social and career events, as well as provided assistance to all incoming/exchange students from Hong Kong and Macau SAR",
+      ]
+    },
   ],
-  "sections": [
-    "templates",
-    "profile",
-    "education",
-    "work",
-    "skills",
-    "projects",
-    "awards"
-  ]
+
+  "publications": [
+    {
+    "name": "Evaporation Kinetics of Nano Water Droplets using Coarse-Grained Molecular Dynamic Simulations",
+    "publisher": "International Journal of Heat and Mass Transfer",
+    "releaseDate": "2020-04-26",
+    "website": "https://www.sciencedirect.com/science/article/abs/pii/S0017931019349750?dgcid=rss_sd_all",
+    "summary": "Evaporation of a nano water droplet investigated using MD simulations under varying vapor pressures from vacuum to near saturation."
+  }
+],
+
+"languages": [
+  {
+    "language": "Cantonese",
+    "fluency": "Native speaker",
+  },
+  {
+    "language": "Mandarin",
+    "fluency": "Native speaker",
+  },
+  {
+    "language": "English",
+    "fluency": "Native speaker",
+  },
+],
 }
