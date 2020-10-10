@@ -39,6 +39,33 @@
 
   "work": [
     {
+      "company": "Chen Research Group",
+      "location": "Hong Kong University of Science and Technology, Hong Kong",
+      "position": "Research Assistant",
+      "website": "https://www.qing-chen.org",
+      "startDate": "Aug 2020",
+      "endDate": "Present",
+      "highlights": [
+        "Design synthesis strategies for thick bi-continuous nano-porous zinc anode for application in secondary zinc-air battery",
+        "Fabricate and characterize prototype zinc air battery and optimize operating parameters to maximize cycle life",
+
+      ]
+    },
+
+    {
+      "company": "AMPD Energy",
+      "position": "Mechanical Engineering Intern",
+      "location": "Science Park, Hong Kong",
+      "website" : "https://ampd.energy",
+      "startDate" : "May 2020",
+      "endDate": "August 2020",
+      "highlights": [
+        "Created a parameterized multi-physics thermal model to analyze and optimize cooling system design",
+        "Spearheaded various mechanical re-designs, reducing overall weight by >200kg",
+      ]
+    },
+
+    {
       "company": "Nanyang Environment and Water Research Institute",
       "location": "Nanyang Technological University, Singapore",
       "position": "Research Assistant",
@@ -62,19 +89,6 @@
         "KT Lucid is a bespoke jewelry company that provides quality signet rings at a reasonable price using a combination of CNC mill/ metal injection mold manufacturing processes",
         "Developed a set of products to reduce manufacturing costs by leveraging suppliers and manufactures overseas in China",
         "Collaborated across legal, engineering, and manufacturing teams through writing clear business and technical reports",
-      ]
-    },
-
-    {
-      "company": "AMPD Energy",
-      "position": "Mechanical Engineering Intern",
-      "location": "Science Park, Hong Kong",
-      "website" : "https://ampd.energy",
-      "startDate" : "May 2020",
-      "endDate": "August 2020",
-      "highlights": [
-        "Created a parameterized multi-physics thermal model to analyze and optimize cooling system design",
-        "Spearheaded various mechanical re-designs, reducing overall weight by >200kg",
       ]
     },
   ],
