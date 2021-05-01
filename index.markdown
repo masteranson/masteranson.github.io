@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "In Pursuit of Innovation"
+title: "Pursuing Innovation"
 image: assets/photo69.jpeg
 ---
 
