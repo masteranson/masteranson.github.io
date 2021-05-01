@@ -3,7 +3,7 @@ title: Anson's Portfolio
 email: anson.tsang@ktlucid.com
 description: 曾雍澤的簡歷
 baseurl: "/masteranson" # the subpath of your site, e.g. /blog
-url: "masteranson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://masteranson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  masteranson
 linkedin_username: tsangy18
 instagram_username: masteranson
