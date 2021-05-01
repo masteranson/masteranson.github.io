@@ -31,7 +31,7 @@ instagram_username: masteranson
 theme: "minima"
 plugins:
   - jekyll-feed
-  - jekyll-menus
+#  - jekyll-menus
 
 
 # Exclude from processing.
