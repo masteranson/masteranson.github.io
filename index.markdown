@@ -11,5 +11,6 @@ image: assets/photo69.jpeg
 <h3 id="-diploma-at-kent-school-https-www-kent-school-edu-18">🦁 <em>Diploma</em> at <a href="https://www.kent-school.edu/">Kent School</a> &#39;18</h3>
 
 ---
+
 > If I had asked the public what they wanted, they would have said a faster horse.
 > <cite>Henry Ford </cite>
