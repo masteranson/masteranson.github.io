@@ -28,7 +28,7 @@ github_username:  masteranson
 linkedin_username: tsangy18
 instagram_username: masteranson
 # Build settings
-remote_theme: jekyll/minima
+theme: minima
 plugins:
   - jekyll-feed
   -jekyll-remote-theme
