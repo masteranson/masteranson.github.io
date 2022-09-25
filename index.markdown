@@ -4,7 +4,12 @@
 
 layout: home
 title: "Pursuing Innovation"
-image: assets/photo69.jpeg
+image:
+
+<p align="center">
+  <img width="auto" height="auto" src="/assets/photo30.JPG">
+</p>
+
 ---
 
 <h3 id="-b-sc-in-mechanical-engineering-at-georgia-institute-of-technology-https-www-me-gatech-edu-22-br-">🐝 <em>B.Sc.</em> in Mechanical Engineering at <a href="https://www.me.gatech.edu/">Georgia Institute of Technology</a> &#39;23 <br /></h3>
