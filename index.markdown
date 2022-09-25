@@ -4,7 +4,7 @@
 
 layout: home
 title: "Pursuing Innovation"
-image: assets/photo30.jpg
+image: /assets/photo30.jpg
 
 ---
 
