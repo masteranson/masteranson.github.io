@@ -5,8 +5,7 @@ permalink: /Zinc Anode/
 ---
 
 <h1 style="color: #5e9ca0; text-align: justify;"><span style="color: #000000;">
-  Leading a team of undergraduate/graduate students in the design, manufacture and testing of a 5kWh battery pack
-  for the <a href="https://www.sae.org/attend/student-events/formula-sae-electric/about">Formula SAE electric competition</a>.
+  Developing a superior zinc anode for aqueous secondary batteries.
 </span></h1>
 ---
 <br />
@@ -27,6 +26,6 @@ permalink: /Zinc Anode/
 
 <br />
 
-You can still the publication at: <a href="https://www.nature.com/articles/s41467-022-30616-w">Hyperlink</a>
+Detail findings are documented in this <a href="https://www.nature.com/articles/s41467-022-30616-w">publication</a>
 
 </div>
