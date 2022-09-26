@@ -40,7 +40,7 @@ On the electrochemical front, two dominating failure mechanisms, <a href="https:
 ---
 <div align="justify">
 To achieve this optimal electrode structure, we designed a new, simple process to electrochemically reduce a ZnO powder precursor into a bicontinuous metal zinc anode,
-very similar to structure through derived from a <a href="https://pubs.acs.org/doi/10.1021/acsnano.9b09669">monolithic salt precursor.</a>
+very similar to structure through derived from a <a href="https://pubs.acs.org/doi/10.1021/acsnano.9b09669">m
 The current reduction pathway is a two step process:
 </div>
 
@@ -49,13 +49,13 @@ The current reduction pathway is a two step process:
   \[Zn(OH)_4^{2-} + 2e^{-} → Zn + 4OH^{-}\]
 </p>
 
-<div align="justify">
+Developing this method was one of my primary tasks in the project.
 To combat shape change, which refers to the macro redistribution of active material through
 zincate transport in bulk electrolyte, it is important that the zincate reduction be much
 faster than the first step. Though similar to deep charging a typical Zn||NiOOH battery, which uses a ZnO powder electrode, there are a couple differences.
 By using a much lower concentration of electrolyte (3M KOH) and a higher over potential in a custom electrochemcial cell,
 we were able to promote a uniform reaction and reduce >95% of all ZnO into the bicontinuous zinc structure.
-In addition, we performed 2D erosion analysis on binarized SEM images and powder compact model to demonstrate how our unique bicontinous structure maintains connectivity
+In addition, we performed 2D erosion analysis on binarized SEM images of the nanoporous Zn anode and Zn powder compact anode. This is to demonstrate how our unique bicontinous structure maintains connectivity
 at high depths of discharge. Developing the fabrication method and simulations was my primary tasks in this project.
 
 </div>

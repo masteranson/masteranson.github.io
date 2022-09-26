@@ -4,11 +4,8 @@
 
 layout: home
 title: "Pursuing Innovation"
+image: /assets/photo30.JPG
 ---
-
-<p align="left">
-  <img width="800" height="auto" src="/assets/photo30.JPG">
-</p>
 
 <div align="justify">
 I am a passionate undergraduate student that is interested in energy storage, green ammonia production and sustainable agriculture.
