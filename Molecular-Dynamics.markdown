@@ -21,18 +21,17 @@ High Performance Computing Centre to run large scale simulations using <code>LAM
 
 <div align="justify">
 
-Molecular dynamic simulations are the basis of the <a href="https://foldingathome.org/">Folding@Home</a> project you may have heard of. Essentially by simulating a nanoscale system, we can take meaningful statistical averages and interpret the phenomea in macroscopic terms while assuming sufficient ergodicity.
-Though I am not qualified to explain why the data from this type of numerical modelling has any meaning in real life, this <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800798/pdf/nihms-127989.pdf">paper</a>
+Molecular dynamic simulations are the basis of the <a href="https://foldingathome.org/">Folding@Home</a> project you may have heard of. Essentially by simulating a nanoscale system, we can take meaningful statistical averages and interpret the phenomena in macroscopic terms. Though I am not qualified to explain why the data from this type of numerical modeling has any meaning in real life, this <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800798/pdf/nihms-127989.pdf">paper</a>
  may provide good insight on this topic.
 
 
 <p align="center">
   <img width="600" height="auto" src="/assets/photo420.jpg">
-  <figcaption>A visualization of the model setup using `VMD`. Approximately 80000 ELBA coarse-grained water molecule was allowed to 'exist' for more than 4 million timesteps.</figcaption>
+  <figcaption>A visualization of the model setup using `VMD`. Approximately 80000 ELBA coarse-grained water molecule was allowed to 'exist' for more than 4 million time-steps.</figcaption>
 </p>
 
-As with any computational studies model validation is critical, especially if any results were to be meaningfully interpreted. That is why we have choosen a well validated coarse grain water model,
- while keeping in mind computational expense and level of accuracy required. Furthermore, we applied various relaxation techniques and measured the bulk vapor pressure and found it in good agreeement with
+As with any computational studies model validation is critical, especially if any results were to be meaningfully interpreted. That is why we have chosen a well validated coarse grain water model,
+ while keeping in mind computational expense and level of accuracy required. Furthermore, we applied various relaxation techniques and measured the bulk vapor pressure and found it in good agreement with
  empirical values.
 
 <p align="center">
