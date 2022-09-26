@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Molecular Dynamics 
+title: Modeling Evaporation
 permalink: /Molecular Dynamics/
 ---
 ### Research Project: Evaporation Kinetics of Nano Water Droplets using Coarse-Grained Molecular Dynamic Simulations
@@ -27,7 +27,7 @@ Though I am not qualified to explain why the data from this type of numerical mo
 
 
 <p align="center">
-  <img width="auto" height="auto" src="/assets/photo420.jpg">
+  <img width="600" height="auto" src="/assets/photo420.jpg">
   <figcaption>A visualization of the model setup using `VMD`. Approximately 80000 ELBA coarse-grained water molecule was allowed to 'exist' for more than 4 million timesteps.</figcaption>
 </p>
 
@@ -36,10 +36,10 @@ As with any computational studies model validation is critical, especially if an
  empirical values.
 
 <p align="center">
-  <img width="auto" height="auto" src="/assets/photo106.png">
+  <img width="600" height="auto" src="/assets/photo106.png">
 </p>
 
-One of the biggest discoveries from this computational study was it how we were able to visualize thermodynamic properties that is not very well defined in such a simulation environment.
+One of the biggest accomplishment from this computational study was the ability to visualize thermodynamic properties that is not very well defined in such a simulation environment.
 We were able to elucidate an evaporation process that is very difficult to replicate in physical experiments. As shown in the figure below,
  a pressure gradient across the interfacial boundary relaxes as net evaporation flux approaches zero.<br />
 
