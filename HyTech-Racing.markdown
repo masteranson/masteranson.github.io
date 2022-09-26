@@ -61,7 +61,7 @@ capture all the design mistakes ahead of actually fabricating the pats, so being
 <br />
 
 <p align="center">
-  <img width="700" height="auto" src="/assets/launch.PNG">
+  <img width="700" height="auto" src="/assets/launch.jpeg">
     <figcaption>Photo capturing members debugging our traction controls system at our shop space.</figcaption>
 </p>
 

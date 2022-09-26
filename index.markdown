@@ -10,7 +10,7 @@ title: "Pursuing Innovation"
   <img width="800" height="auto" src="/assets/photo30.JPG">
 </p>
 
-I am a passionate undergraduate student that is interested in the intersection of engineering and science in clean technologies.<br />
+I am a passionate undergraduate student that is interested in sustainable technologies.<br />
 Please feel free to check out some of my public work through the menu button on the top right.
 
 <h3 id="-b-sc-in-mechanical-engineering-at-georgia-institute-of-technology-https-www-me-gatech-edu-22-br-">🐝 <em>B.Sc.</em> in Mechanical Engineering at <a href="https://www.me.gatech.edu/">Georgia Institute of Technology</a> &#39;23 <br /></h3>
