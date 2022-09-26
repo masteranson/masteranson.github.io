@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zinc Anode
+title: Engineering Electrodes
 permalink: /Zinc Anode/
 ---
 
@@ -28,8 +28,8 @@ Zinc, being one the most abundant metal on Earth, offers a high theoretical capa
 <br />
 <br />
 
-On the electrochemical front, two main dominating failure mechanisms, <a href="https://doi.org/10.1016%2F0378-7753%2891%2980117-G">dentritic growth and shape change</a>, continue to plague the development
- of zinc batteries for the past 30 years. To overcome these challenges, the porous zinc metal electrode needs maintain the electrically conductive Zn 'network' under high depths of discharge.
+On the electrochemical front, two dominating failure mechanisms, <a href="https://doi.org/10.1016%2F0378-7753%2891%2980117-G">dentritic growth and shape change</a>, continue to plague the development
+ of zinc batteries for the past 30 years. To overcome these challenges, the porous zinc metal electrode needs to maintain the electrically conductive Zn 'network' under high depths of discharge.
 
 </div>
 
@@ -55,6 +55,9 @@ zincate transport in bulk electrolyte, it is important that the zincate reductio
 faster than the first step. Though similar to deep charging a typical Zn||NiOOH battery, which uses a ZnO powder electrode, there are a couple differences.
 By using a much lower concentration of electrolyte (3M KOH) and a higher over potential in a custom electrochemcial cell,
 we were able to promote a uniform reaction and reduce >95% of all ZnO into the bicontinuous zinc structure.
+In addition, we performed 2D erosion analysis on binarized SEM images and powder compact model to demonstrate how our unique bicontinous structure maintains connectivity
+at high depths of discharge. Developing the fabrication method and simulations was my primary tasks in this project.
+
 </div>
 
 <br />

@@ -1,18 +1,20 @@
 ---
 layout: post
-title: KT Lucid 💍
+title: Signet Rings 💍
 permalink: /KT Lucid LLC/
 ---
 
-
-
+<h2 style="color: #5e9ca0; text-align: justify;"><span style="color: #000000;">
+  KT Lucid LLC, a custom signet ring jewelry company
+</span></h2>
+---
 <p align="left">
   <img width="700" height="auto" src="/assets/rings.jpeg">
   <figcaption>Three designs are shown with different materials. </figcaption>
 </p>
 
 <div align="justify">
-KT Lucid was a company operational from 2017-2019 selling custom signet rings for schools.
+KT Lucid was a company operational from 2017-2020 selling custom signet rings for schools.
 My founding partner and I realized that current industry standard manufacturing methods were not able to recreate the geometric features of a school emblem scaled to the size of a ring, at a competitive price point.
 Therefore, we decided to start a company that leverages new manufacturing processes to create a more detailed ring.
 </div>
@@ -38,5 +40,5 @@ Part of our approach was heavy use of computer-aided manufacturing and design, w
   <figcaption>Computer render of our signet rings highlighting the post machined surfaces in blue.</figcaption>
 </p>
 
-Ultimately my co-founder and I decided to stop pursuing this venture as we bacame more interested in other opportunities.
+Ultimately my co-founder and I decided to stop pursuing this venture as we became more interested in other opportunities.
 However, you can sitll check our products out on our [website](https://www.ktlucid.com).
