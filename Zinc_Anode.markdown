@@ -10,7 +10,7 @@ permalink: /Zinc Anode/
 </script>
 
 <h2 style="color: #5e9ca0; text-align: justify;"><span style="color: #000000;">
-  Research Project: Developing a superior zinc anode for aqueous secondary batteries.
+  Developing a Superior Zinc Anode for Aqueous Secondary Batteries
 </span></h2>
 ---
 <br />
@@ -40,7 +40,7 @@ On the electrochemical front, two dominating failure mechanisms, <a href="https:
 ---
 <div align="justify">
 To achieve this optimal electrode structure, we designed a new, simple process to electrochemically reduce a ZnO powder precursor into a bicontinuous metal zinc anode,
-very similar to structure through derived from a <a href="https://pubs.acs.org/doi/10.1021/acsnano.9b09669">m
+very similar to structure through derived from a <a href="https://pubs.acs.org/doi/10.1021/acsnano.9b09669">monlithic salt precursor</a>.
 The current reduction pathway is a two step process:
 </div>
 
@@ -49,6 +49,7 @@ The current reduction pathway is a two step process:
   \[Zn(OH)_4^{2-} + 2e^{-} → Zn + 4OH^{-}\]
 </p>
 
+<div align="justify">
 Developing this method was one of my primary tasks in the project.
 To combat shape change, which refers to the macro redistribution of active material through
 zincate transport in bulk electrolyte, it is important that the zincate reduction be much
