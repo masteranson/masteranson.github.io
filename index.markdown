@@ -51,5 +51,5 @@ Please check out my work below.
 ### Curriculum Vitae
 ---
 <ul>
-<li><a href="https://github.com/masteranson/masteranson.github.io/raw/master/CFD_Lab1.pdf">Full CV</a></li>
+<li><a href="https://github.com/masteranson/masteranson.github.io/raw/master/Anson_Resume_2022_09_27.pdf">Full CV</a></li>
 </ul>
