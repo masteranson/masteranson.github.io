@@ -17,31 +17,31 @@ permalink: /Zinc Anode/
 
 <p align="center">
   <img width="700" height="auto" src="/assets/closeup.jpg">
-  <figcaption>SEM image of the surface of the nanoporous zinc anode with 1um scalebar. </figcaption>
+  <figcaption>SEM backscattered electron image of the surface of the nanoporous zinc anode with 1um scalebar. </figcaption>
 </p>
 
 <div align="justify">
-In the world of increasing electrification, a lot of academic and commercial interests are drawn into alternatives to lithium ion.
-Zinc, being one the most abundant metal on Earth, offers a high theoretical capacity (820 mAh/g) without the toxicity and safety risks inherent with lithium based batteries.
+In the world of increasing electrification, alternatives to lithium ion batteries draws an increasing amount of academic and commercial interests.
+Zinc, as the most abundant metal on Earth, offers a high theoretical capacity (820 mAh/g) without the toxicity and safety risks inherent with lithium based batteries.
  However, many technical challenges remain unsolved in order to increase the performance of zinc-based aqueous batteries to practical engineering standards.
 
 <br />
 <br />
 
-On the electrochemical front, two dominating failure mechanisms, <a href="https://doi.org/10.1016%2F0378-7753%2891%2980117-G">dentritic growth and shape change</a>, continue to plague the development
- of zinc batteries for the past 30 years. To overcome these challenges, the porous zinc metal electrode needs to maintain the electrically conductive Zn 'network' under high depths of discharge.
+On the electrochemical front, two dominating failure mechanisms, <a href="https://doi.org/10.1016%2F0378-7753%2891%2980117-G">dentritic growth and shape change</a>, have continued to plague the development
+ of zinc based batteries for the past 30 years. To overcome these challenges, the porous zinc metal electrode needs to maintain the electrically conductive Zn 'network' under high depths of discharge.
 
 </div>
 
 <br />
 
 
-### Importance of a bicontinuous structure
+### Importance of a Bicontinuous Structure
 ---
 <div align="justify">
-To achieve this optimal electrode structure, we designed a new, simple process to electrochemically reduce a ZnO powder precursor into a bicontinuous metal zinc anode,
-very similar to structure through derived from a <a href="https://pubs.acs.org/doi/10.1021/acsnano.9b09669">monlithic salt precursor</a>.
-The current reduction pathway is a two step process:
+To achieve an optimal electrode structure, we designed a new simple process to electrochemically reduce a ZnO powder precursor into a bicontinuous metal zinc anode,
+very similar to structures  derived from a <a href="https://pubs.acs.org/doi/10.1021/acsnano.9b09669">monlithic salt precursor</a>.
+The current reduction pathway is a two step process illustrated in the equations below:
 </div>
 
 <p>
@@ -50,36 +50,35 @@ The current reduction pathway is a two step process:
 </p>
 
 <div align="justify">
-Developing this method was one of my primary tasks in the project.
-To combat shape change, which refers to the macro redistribution of active material through
-zincate transport in bulk electrolyte, it is important that the zincate reduction be much
-faster than the first step. Though similar to deep charging a typical Zn||NiOOH battery, which uses a ZnO powder electrode, there are a couple differences.
-By using a much lower concentration of electrolyte (3M KOH) and a higher over potential in a custom electrochemcial cell,
-we were able to promote a uniform reaction and reduce >95% of all ZnO into the bicontinuous zinc structure.
-In addition, we performed 2D erosion analysis on binarized SEM images of the nanoporous Zn anode and Zn powder compact anode. This is to demonstrate how our unique bicontinous structure maintains connectivity
-at high depths of discharge. Developing the fabrication method and simulations was my primary tasks in this project.
-
+Developing this fabrication method was one of my primary tasks of the project.
+To combat shape change of the active material macro redistribution through zincate transport in bulk electrolyte, it is important that the zincate reduction be much faster than the first step.
+Though similar to deep charging a typical Zn||NiOOH battery, which typically uses a ZnO powder electrode, there are a couple differences.
+By using a much lower concentration of electrolyte (3M KOH) and a higher over potential in a custom electrochemical cell, we promoted a uniform reaction and reduce >95% of all ZnO into the bicontinuous zinc structures.
+In addition, I performed 2D erosion analysis on binarized SEM images of the nonporous Zn anode and models of Zn powder compact anode. The results from this simple numerical model demonstrated how our unique bicontinous structure maintained connectivity at high depths of discharge.
 </div>
 
 <br />
 
 <p align="center">
   <img width="700" height="auto" src="/assets/yup.png">
-  <figcaption>The subfigure on the left shows the setup of our reduction jig. On the top right is the ZnO compact on a copper foam current collector.
-    The bottom right photo shows the zinc metal electrode after reduction. </figcaption>
+  <figcaption>The subfigure on the left shows the setup of our reduction jig. The picture the top right is the ZnO powder precursor pressed on a copper foam current collector.
+    The bottom right photo shows the zinc metal anode after reduction. </figcaption>
 </p>
 
 <div align="justify">
-To better understand our electrochemical performance, we can benchmark our performance in Zn||NIOOH coin cells against other state of the art zinc electrodes reported in literature.
-We were able to demonstrate a high cycle life and areal capacity with realistic charge/discharge testing parameters and a very scalable manufacturing process.
+To better understand our electrochemical performance, we can benchmark our areal capacity, cycle life, and depth of discharge in Zn||NIOOH coin cells against other state of the art zinc electrodes reported in literature.
+Even with realistic charge/discharge testing parameters in a lean electrolyte configuration, we were able to demonstrate state of the art performance.
 </div>
 
 <br />
 
 <p align="center">
   <img width="400" height="auto" src="/assets/benchmark.png">
-  <figcaption>Benchmark of other Zn||NiOOH batteries reported in literature (this work is represented with the red circles). The referenced work are detailed in supplementary Table 1 of the publication. </figcaption>
+  <figcaption>Benchmark of other Zn||NiOOH batteries reported in literature (represented with red circles). The referenced work is detailed in supplementary Table 1 of the publication. </figcaption>
 </p>
 
-
-Detail findings are documented in this <a href="https://www.nature.com/articles/s41467-022-30616-w">publication.</a>
+<div align="justify">
+Read <a href="https://www.nature.com/articles/s41467-022-30616-w">Phase-transition tailored nanoporous zinc metal
+electrodes for rechargeable alkaline zinc-nickel
+oxide hydroxide and zinc-air batterie</a> here.
+</div>
