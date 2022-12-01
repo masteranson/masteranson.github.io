@@ -74,7 +74,7 @@ Even with realistic charge/discharge testing parameters in a lean electrolyte co
 
 <p align="center">
   <img width="400" height="auto" src="/assets/benchmark.png">
-  <figcaption>Benchmark of other Zn||NiOOH batteries reported in literature (represented with red circles). The referenced work is detailed in supplementary Table 1 of the publication. </figcaption>
+  <figcaption>Benchmark of other Zn||NiOOH batteries reported in literature (This work is represented as red circles). The referenced work is detailed in supplementary Table 1 of the publication. </figcaption>
 </p>
 
 <div align="justify">
