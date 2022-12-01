@@ -35,15 +35,15 @@ Please check out my work below.
 ### Research & Projects
 ---
 <ul>
-<li><a href="https://github.com/masteranson/masteranson.github.io/raw/master/CFD_Lab1.pdf">Developing a Superior Zinc Anode</a></li>
+<li><a href="https://masteranson.github.io/Zinc%20Anode/">Developing a Superior Zinc Anode</a></li>
 <br />
-<li><a href="https://github.com/masteranson/masteranson.github.io/raw/master/CFD_Lab1.pdf">Modeling Evaporation of a Nanodroplet</a></li>
-<br />
-
-<li><a href="https://github.com/masteranson/masteranson.github.io/raw/master/CFD_Lab1.pdf">Leading Georgia Tech's Electric Racing Team</a></li>
+<li><a href="https://masteranson.github.io/Molecular%20Dynamics/">Modeling Evaporation of a Nanodroplet</a></li>
 <br />
 
-<li><a href="https://github.com/masteranson/masteranson.github.io/raw/master/CFD_Lab1.pdf">Co-Founding a Custom Jewelry Company</a></li>
+<li><a href="https://masteranson.github.io/HyTech%20Racing/">Leading Georgia Tech's Electric Racing Team</a></li>
+<br />
+
+<li><a href="https://masteranson.github.io/KT%20Lucid%20LLC/">Co-Founding a Custom Jewelry Company</a></li>
 </ul>
 
 <br />
@@ -51,5 +51,5 @@ Please check out my work below.
 ### Curriculum Vitae
 ---
 <ul>
-<li><a href="https://github.com/masteranson/masteranson.github.io/raw/master/Anson_Resume_2022_09_27.pdf">Full CV</a></li>
+<li><a href="https://github.com/masteranson/masteranson.github.io/raw/master/Anson_Resume_2022_11_30.pdf">Full CV</a></li>
 </ul>
