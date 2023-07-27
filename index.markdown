@@ -3,35 +3,34 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Pursuing Innovation"
+title: Always Building
 image: /assets/photo300.jpg
 ---
 ---
 <div align="justify">
-  <p style = "line-height: 1.8; font-size:18px;">
-I am a PhD Student at Princeton University from Hong Kong passionate about changing the world.
-With experience in energy storage, evaporation modeling, and electric vehicles, I am looking to pursue new opportunities in the field of sustainable technologies.
-Previously intern at <a href="https://www.apple.com/apple-watch-ultra/">Apple</a>, <a href="https://www.youtube.com/watch?v=TI_377odrFY">Tesla</a>,
-I speak Cantonese, English, and Mandarin fluently. <br />
-<br />
-Please check out my work below.
-</p>
-</div>
+<!-- <br> -->
+  <p style = "line-height: 1.8; font-size:26px;">
+Currently building <b><a href="http://fillet.ai/">Fillet AI</a></b></p> </div>
+<!-- <br /> -->
 
-<br />
+<!-- <br /> -->
 
-### Education Background
----
+
+<!-- <br /> -->
+
+### School
+
 <ul>
-<li><em>PhD.</em> in Materials Science and Civil Engineering, from  <a href="https://www.princeton.edu/">Princeton University</a> &#39;2x 🐅<br /></li>
-<li><em>B.Sc.</em> in Mechanical Engineering, <em>Minor</em> in Scientific and Engineering Computing from  <a href="https://www.me.gatech.edu/">Georgia Institute of Technology</a> &#39;23 🐝<br /></li>
+<li><em>PhD.</em> in Materials Science and Civil Engineering, from  <a href="https://www.princeton.edu/">🐅 Princeton University</a> <b>&#39;2X</b> <br /></li>
 <br />
-<li><em>High School Diploma</em> from <a href="https://www.kent-school.edu/">Kent School</a> &#39;18 🦁</li>
+<li><em>B.Sc.</em> in Mechanical Engineering, <em>Minor</em> in CS from  <a href="https://www.me.gatech.edu/">🐝 Georgia Tech</a> <b>&#39;23</b> <br /></li>
+<br />
+<li><em>High School Diploma</em> from <a href="https://www.kent-school.edu/">🦁 Kent School</a> <b>&#39;18</b> </li>
 </ul>
 
 <br />
 
-### Research & Projects
+### Previous Research & Projects
 ---
 <ul>
 <li><a href="https://masteranson.github.io/Zinc%20Anode/">Developing a Superior Zinc Anode</a></li>
