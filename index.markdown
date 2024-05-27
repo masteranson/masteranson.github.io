@@ -10,7 +10,7 @@ image: /assets/photo300.jpg
 <div align="justify">
 <!-- <br> -->
   <p style = "line-height: 1.8; font-size:26px;">
-Currently building <b><a href="http://fillet.ai/">Fillet AI</a></b></p> </div>
+<!-- Currently building <b><a href="http://fillet.ai/">Fillet AI</a></b></p> </div> -->
 <!-- <br /> -->
 
 <!-- <br /> -->
@@ -33,6 +33,8 @@ Currently building <b><a href="http://fillet.ai/">Fillet AI</a></b></p> </div>
 ### Previous Research & Projects
 ---
 <ul>
+<li><a href="https://masteranson.github.io/nanophotonics/">Leveraging the Coldness of Space</a></li>
+<br />
 <li><a href="https://masteranson.github.io/Zinc%20Anode/">Developing a Superior Zinc Anode</a></li>
 <br />
 <li><a href="https://masteranson.github.io/Molecular%20Dynamics/">Modeling Evaporation of a Nanodroplet</a></li>
@@ -49,5 +51,5 @@ Currently building <b><a href="http://fillet.ai/">Fillet AI</a></b></p> </div>
 ### Curriculum Vitae
 ---
 <ul>
-<li><a href="https://github.com/masteranson/masteranson.github.io/raw/master/Anson_Resume_2022_11_30.pdf">Full CV</a></li>
-</ul>
+<li><a href="https://github.com/masteranson/masteranson.github.io/raw/master/Anson_Resume_2024_05_26.pdf">Full CV</a></li>
+</ul> 
