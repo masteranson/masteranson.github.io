@@ -21,7 +21,7 @@ permalink: /nanophotonics/
 </p>
 
 <div align="justify">
-The demand for sustainable cooling solutions is growing as climate change intensifies and energy consumption rises. Traditional cooling methods are energy-intensive and contribute to greenhouse gas emissions. Our study presents a novel, scalable design for a radiative cooler that operates without external energy by directly expelling heat to the coldness of space, even in conditions as extreme as the Saharan desert.
+As the need for sustainable cooling solutions intensifies alongside rising energy consumption and the impacts of climate change, traditional methods fall short due to their high energy use and greenhouse gas emissions. Our study introduces a novel, scalable design for a radiative cooler that operates without external energy by dissipating heat directly into the coldness of space. Remarkably, this system remains effective even under the extreme conditions of the Saharan desert.
 <br />
 <br />
 
