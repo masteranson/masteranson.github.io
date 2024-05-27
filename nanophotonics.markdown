@@ -13,8 +13,14 @@ permalink: /nanophotonics/
   Developing a super-white material that cools itself during the day
 </span></h2>
 ---
-<br />
 
+<div align="justify">
+As a graduate student in the 
+<a href="https://jyotirmoymandal.com/">Thermal and Optics Group</a> at Princeton University, my first research project was on developing a thin material that can cool itself during the day without any additional energy input. Known was daytime radative cooling, this technology is in its early stages, and some recent commericalization efforts have been made by startups like <a href="https://www.skycoolsystems.com/">SkyCool Systems</a> and <a href="https://www.3m.com/3M/en_US/energy-conservation-us/applications/passive-radiative-cooling/">3M</a>.
+
+</div>
+
+<br />
 <p align="center">
   <img width="700" height="auto" src="/assets/nanophotonics_2.png">
   <figcaption>Subfigure A is a 6"x6" ePTFE-P(VdF-HFP) bilayer radiative cooler. Subfigure B are scanning electron micrographs of the bilayer with both the top surface and cross-section in view. Subfigure C is the reflectance spectrum of the radiative cooler. The background shows a normalized solar spectrum, and atmospheric irradiance showing cooling potentials for different sky conditions.</figcaption>

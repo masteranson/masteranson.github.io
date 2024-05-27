@@ -13,6 +13,14 @@ permalink: /Zinc Anode/
   Developing a Superior Zinc Anode for Aqueous Secondary Batteries
 </span></h2>
 ---
+
+<div align="justify">
+I worked as a research assistant in the 
+<a href="https://www.qing-chen.org/">Chen Lab</a> at in Hong Kong University of Science and Technology during gap year between August 2020 - May 2021.
+One of my primary research focus was on developing high performance zinc batteries using a novel phenomenon called <a href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.8b01431">reduction-induced decomposition</a> . 
+
+</div>
+
 <br />
 
 <p align="center">

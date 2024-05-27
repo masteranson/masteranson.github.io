@@ -18,7 +18,8 @@ image: /assets/photo300.jpg
 
 <!-- <br /> -->
 
-### School
+<h3>School</h3>
+
 
 <ul>
 <li><em>PhD.</em> in Materials Science and Civil Engineering, from  <a href="https://www.princeton.edu/">🐅 Princeton University</a> <b>&#39;2X</b> <br /></li>
@@ -30,8 +31,9 @@ image: /assets/photo300.jpg
 
 <br />
 
-### Previous Research & Projects
----
+<h3>Previous Research & Projects</h3>
+
+<hr>
 <ul>
 <li><a href="https://masteranson.github.io/nanophotonics/">Leveraging the Coldness of Space</a></li>
 <br />
@@ -48,8 +50,12 @@ image: /assets/photo300.jpg
 
 <br />
 
-### Curriculum Vitae
----
+<!-- Use html for subtitle -->
+
+ <h3>Curriculum Vitae</h3>
+
+<hr>
 <ul>
 <li><a href="https://github.com/masteranson/masteranson.github.io/raw/master/Anson_Resume_2024_05_26.pdf">Full CV</a></li>
-</ul> 
+</ul>
+
