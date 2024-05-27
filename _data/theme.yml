@@ -30,8 +30,9 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
+  - nanophotonics.markdown
+  - HyTech-Racing.markdown
   - Zinc_Anode.markdown
   - Molecular-Dynamics.markdown
-  - HyTech-Racing.markdown
   - KTLucid.markdown
-  - nanophotonics.markdown
+
