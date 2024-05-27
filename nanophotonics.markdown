@@ -16,7 +16,7 @@ permalink: /nanophotonics/
 
 <div align="justify">
 As a graduate student in the 
-<a href="https://jyotirmoymandal.com/">Thermal and Optics Group</a> at Princeton University, my first research project was on developing a thin material that can cool itself during the day without any additional energy input. Known was daytime radative cooling, this technology is in its early stages, and some recent commericalization efforts have been made by startups like <a href="https://www.skycoolsystems.com/">SkyCool Systems</a> and <a href="https://www.3m.com/3M/en_US/energy-conservation-us/applications/passive-radiative-cooling/">3M</a>.
+<a href="https://jyotirmoymandal.com/">Thermal and Optics Group</a> at Princeton University, my first research project was on developing a thin material that can cool itself during the day without any additional energy input. Known was daytime radiative cooling, this technology is in its early stages, and some recent commericalization efforts have been made by startups like <a href="https://www.skycoolsystems.com/">SkyCool Systems</a> and <a href="https://www.3m.com/3M/en_US/energy-conservation-us/applications/passive-radiative-cooling/">3M</a>.
 
 </div>
 
